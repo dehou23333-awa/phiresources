@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: Dehou23333-awa/PhiAutoRenderNext
-          token: ${{ secrets.PAT_TOKEN }} 
+          token: ${{ secrets.GITHUB_TOKEN }} 
           path: tools
 
       - name: 安装环境与依赖
