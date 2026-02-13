@@ -1,0 +1,77 @@
+name: 自动更新 Phigros 资源
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 17 * * 5
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 检出公开资源仓库 (PhiResources)
+        uses: actions/checkout@v4
+        with:
+          path: PhiResources
+
+      - name: 检出私有工具仓库 (PhiAutoRenderNext)
+        uses: actions/checkout@v4
+        with:
+          repository: Dehou23333-awa/PhiAutoRenderNext
+          token: ${{ secrets.PAT_TOKEN }} 
+          path: tools
+
+      - name: 安装环境与依赖
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y aria2
+          cd tools
+          pip install -r requirements.txt
+
+      - name: 配置运行参数
+        run: |
+          cd tools
+          # 创建一个简化的配置文件，只开启下载和解包
+          echo '{
+              "config": {
+                  "SESSDATA": "",
+                  "BILI_JCT": "",
+                  "BUVID3": "",
+                  "Aria2Port": 6800,
+                  "TempPath": "./temp",
+                  "RunTime": {
+                      "doCleanTemp": false,
+                      "doDownloadApk": true,
+                      "downloadwith": "aria2",
+                      "doUnpack": true,
+                      "doBuildChartInfo": true,
+                      "doRender": false,
+                      "doUpload": false,
+                      "doUpdateChartInfo": true,
+                      "doConstantChange": false
+                  }
+              }
+          }' > config.json
+
+      - name: 执行下载与解包工作流
+        run: |
+          cd tools
+          # 启动 aria2 后台服务
+          aria2c --enable-rpc --rpc-listen-all --rpc-allow-origin-all=true --rpc-listen-port=6800 -D
+          python main.py
+
+      - name: 同步资源并提交
+        run: |
+          # 将解包出的资源移动到公开仓库目录
+          mkdir -p PhiResources/chart PhiResources/ill PhiResources/music
+          cp -r tools/temp/chart/* PhiResources/chart/ 2>/dev/null || true
+          cp -r tools/temp/ill/* PhiResources/ill/ 2>/dev/null || true
+          cp -r tools/temp/music/* PhiResources/music/ 2>/dev/null || true
+          
+          cd PhiResources
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "自动更新资源: $(date '+%Y-%m-%d %H:%M:%S')" || exit 0
+          git push
