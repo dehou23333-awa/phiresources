@@ -33,7 +33,6 @@ jobs:
       - name: 配置运行参数
         run: |
           cd tools
-          # 创建一个简化的配置文件，只开启下载和解包
           echo '{
               "config": {
                   "SESSDATA": "",
@@ -59,20 +58,15 @@ jobs:
         run: |
           cd tools
           mkdir -p temp
-          # 启动 aria2 后台服务
           aria2c --enable-rpc --rpc-listen-all --rpc-allow-origin-all=true --rpc-listen-port=6800 -D
           python main.py
 
       - name: 同步资源并提交
         run: |
-          # 提取版本信息用于 Commit Message
           VERSION=$(jq -r '.Version' tools/Chart_info.json)
           PHIVERSION=$(jq -r '.PhiVersion' tools/Chart_info.json)
           
-          # 创建资源目录
           mkdir -p PhiResources/chart PhiResources/ill PhiResources/music
-          
-          # 拷贝解包出的资源文件
           cp -r tools/temp/chart/* PhiResources/chart/ 2>/dev/null || true
           cp -r tools/temp/ill/* PhiResources/ill/ 2>/dev/null || true
           cp -r tools/temp/music/* PhiResources/music/ 2>/dev/null || true
@@ -83,7 +77,13 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          # 添加所有更改并提交
           git add .
           git commit -m "自动更新资源: Phigros v$PHIVERSION (Build $VERSION)" || exit 0
+          git push
+
+          cd tools
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add Chart_info.json
+          git commit -m "Actions: 更新谱面信息 v$PHIVERSION ($VERSION)" || echo "PhiAutoRenderNext 无需更新"
           git push
