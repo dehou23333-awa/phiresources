@@ -26,7 +26,7 @@ jobs:
       - name: 安装环境与依赖
         run: |
           sudo apt-get update
-          sudo apt-get install -y aria2 libvorbis-dev
+          sudo apt-get install -y aria2 libvorbis-dev jq
           cd tools
           pip install -r requirements.txt
 
@@ -44,7 +44,7 @@ jobs:
                   "RunTime": {
                       "doCleanTemp": true,
                       "doDownloadApk": true,
-                      "downloadwith": "wget",
+                      "downloadwith": "aria2",
                       "doUnpack": true,
                       "doBuildChartInfo": true,
                       "doRender": false,
@@ -58,12 +58,17 @@ jobs:
       - name: 执行下载与解包工作流
         run: |
           cd tools
+          mkdir -p temp
           # 启动 aria2 后台服务
           aria2c --enable-rpc --rpc-listen-all --rpc-allow-origin-all=true --rpc-listen-port=6800 -D
           python main.py
 
       - name: 同步资源并提交
         run: |
+          # 提取版本信息
+          VERSION=$(jq -r '.Version' tools/Chart_info.json)
+          PHIVERSION=$(jq -r '.PhiVersion' tools/Chart_info.json)
+          
           # 将解包出的资源移动到公开仓库目录
           mkdir -p PhiResources/chart PhiResources/ill PhiResources/music
           cp -r tools/temp/chart/* PhiResources/chart/ 2>/dev/null || true
@@ -74,5 +79,6 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git commit -m "自动更新资源: $(date '+%Y-%m-%d %H:%M:%S')" || exit 0
+          # 使用版本号作为提交信息
+          git commit -m "自动更新资源: Phigros v$PHIVERSION (Build $VERSION)" || exit 0
           git push
