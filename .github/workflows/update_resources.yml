@@ -26,7 +26,7 @@ jobs:
       - name: 安装环境与依赖
         run: |
           sudo apt-get update
-          sudo apt-get install -y aria2
+          sudo apt-get install -y aria2 libvorbis-dev
           cd tools
           pip install -r requirements.txt
 
