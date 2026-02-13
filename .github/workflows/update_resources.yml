@@ -62,7 +62,7 @@ jobs:
           python main.py
 
       - name: 同步资源并提交
-      run: |
+        run: |
             ROOT_DIR=$(pwd)
             VERSION=$(jq -r '.Version' tools/Chart_info.json)
             PHIVERSION=$(jq -r '.PhiVersion' tools/Chart_info.json)
