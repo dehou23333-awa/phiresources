@@ -13,6 +13,7 @@ jobs:
       - name: 检出公开资源仓库 (PhiResources)
         uses: actions/checkout@v4
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           path: PhiResources
 
       - name: 检出私有工具仓库 (PhiAutoRenderNext)
