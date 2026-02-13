@@ -44,7 +44,7 @@ jobs:
                   "RunTime": {
                       "doCleanTemp": false,
                       "doDownloadApk": true,
-                      "downloadwith": "aria2",
+                      "downloadwith": "wget",
                       "doUnpack": true,
                       "doBuildChartInfo": true,
                       "doRender": false,
