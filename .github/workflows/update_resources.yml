@@ -65,20 +65,25 @@ jobs:
 
       - name: 同步资源并提交
         run: |
-          # 提取版本信息
+          # 提取版本信息用于 Commit Message
           VERSION=$(jq -r '.Version' tools/Chart_info.json)
           PHIVERSION=$(jq -r '.PhiVersion' tools/Chart_info.json)
           
-          # 将解包出的资源移动到公开仓库目录
+          # 创建资源目录
           mkdir -p PhiResources/chart PhiResources/ill PhiResources/music
+          
+          # 拷贝解包出的资源文件
           cp -r tools/temp/chart/* PhiResources/chart/ 2>/dev/null || true
           cp -r tools/temp/ill/* PhiResources/ill/ 2>/dev/null || true
           cp -r tools/temp/music/* PhiResources/music/ 2>/dev/null || true
           
+          cp tools/Chart_info.json PhiResources/
+          
           cd PhiResources
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          
+          # 添加所有更改并提交
           git add .
-          # 使用版本号作为提交信息
           git commit -m "自动更新资源: Phigros v$PHIVERSION (Build $VERSION)" || exit 0
           git push
