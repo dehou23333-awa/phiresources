@@ -62,28 +62,38 @@ jobs:
           python main.py
 
       - name: 同步资源并提交
-        run: |
-          VERSION=$(jq -r '.Version' tools/Chart_info.json)
-          PHIVERSION=$(jq -r '.PhiVersion' tools/Chart_info.json)
-          
-          mkdir -p PhiResources/chart PhiResources/ill PhiResources/music
-          cp -r tools/temp/chart/* PhiResources/chart/ 2>/dev/null || true
-          cp -r tools/temp/ill/* PhiResources/ill/ 2>/dev/null || true
-          cp -r tools/temp/music/* PhiResources/music/ 2>/dev/null || true
-          
-          cp tools/Chart_info.json PhiResources/
-          
-          cd PhiResources
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          
-          git add .
-          git commit -m "自动更新资源: Phigros v$PHIVERSION (Build $VERSION)" || exit 0
-          git push
-
-          cd tools
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add Chart_info.json
-          git commit -m "Actions: 更新谱面信息 v$PHIVERSION ($VERSION)" || echo "PhiAutoRenderNext 无需更新"
-          git push
+      run: |
+            ROOT_DIR=$(pwd)
+            VERSION=$(jq -r '.Version' tools/Chart_info.json)
+            PHIVERSION=$(jq -r '.PhiVersion' tools/Chart_info.json)
+            
+            mkdir -p PhiResources/chart PhiResources/ill PhiResources/music
+            cp -r tools/temp/chart/* PhiResources/chart/ 2>/dev/null || true
+            cp -r tools/temp/ill/* PhiResources/ill/ 2>/dev/null || true
+            cp -r tools/temp/music/* PhiResources/music/ 2>/dev/null || true
+            cp tools/Chart_info.json PhiResources/
+            cd $ROOT_DIR/PhiResources
+            
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add .
+            # 检查是否有文件更改
+            if [ -n "$(git status --porcelain)" ]; then
+              git commit -m "自动更新资源: Phigros v$PHIVERSION (Build $VERSION)"
+              git push
+            else
+              echo "PhiResources 无需更新"
+            fi
+            
+            # 3. 提交 tools (PhiAutoRenderNext)
+            cd $ROOT_DIR/tools
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add Chart_info.json
+            # 检查 Chart_info.json 是否有更改
+            if [ -n "$(git status --porcelain)" ]; then
+              git commit -m "Actions: 更新谱面信息 v$PHIVERSION ($VERSION)"
+              git push
+            else
+              echo "PhiAutoRenderNext 无需更新"
+            fi
