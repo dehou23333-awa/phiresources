@@ -42,7 +42,7 @@ jobs:
                   "Aria2Port": 6800,
                   "TempPath": "./temp",
                   "RunTime": {
-                      "doCleanTemp": false,
+                      "doCleanTemp": true,
                       "doDownloadApk": true,
                       "downloadwith": "wget",
                       "doUnpack": true,
