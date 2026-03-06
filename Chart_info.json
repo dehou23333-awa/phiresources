@@ -1,6 +1,6 @@
 {
-    "Version": 141,
-    "PhiVersion": "3.18.3",
+    "Version": 142,
+    "PhiVersion": "3.18.4",
     "Songs": {
         "Glaciaxion.SunsetRay": {
             "Name": "Glaciaxion",
@@ -6128,7 +6128,7 @@
             "previewEndTime": 57.0,
             "EZ": {
                 "charter": "Helabot",
-                "difficulty": "6.0",
+                "difficulty": "7.5",
                 "md5": "d464a9035f49c530843967d65c1779c0"
             },
             "HD": {
@@ -6156,7 +6156,7 @@
             "previewEndTime": 28.2,
             "EZ": {
                 "charter": "-",
-                "difficulty": "7.5",
+                "difficulty": "7.0",
                 "md5": "bcaf79bf62297877751730dc5123da38"
             },
             "HD": {
@@ -6470,17 +6470,17 @@
             "previewEndTime": 106.0,
             "EZ": {
                 "charter": "【梦之起始】爬爬 vs. 盐",
-                "difficulty": "6.0",
+                "difficulty": "7.0",
                 "md5": "8433dc87812e340d16cb54d1eba5535d"
             },
             "HD": {
                 "charter": "E00200",
-                "difficulty": "12.5",
+                "difficulty": "12.1",
                 "md5": "42f4e1be5bdcedcd22406fbffe8ea62a"
             },
             "IN": {
                 "charter": "Magazet wanders within StR-1",
-                "difficulty": "16.4",
+                "difficulty": "16.2",
                 "md5": "181d9686ebd6055c6b5ad7eaeefbaeb3"
             }
         },
@@ -6493,17 +6493,17 @@
             "previewEndTime": 96.0,
             "EZ": {
                 "charter": "爬爬",
-                "difficulty": "7.0",
+                "difficulty": "6.0",
                 "md5": "c83c55eee51148f98919998f3f13091b"
             },
             "HD": {
                 "charter": "凛",
-                "difficulty": "12.1",
+                "difficulty": "12.5",
                 "md5": "4fa86cb0e51de97efd14afba578472f0"
             },
             "IN": {
                 "charter": "OPCII_0584_X",
-                "difficulty": "16.2",
+                "difficulty": "16.4",
                 "md5": "7952812a315927afc23716ba28817dd3"
             }
         },
@@ -6551,6 +6551,52 @@
                 "charter": "MOTION 464.237",
                 "difficulty": "14.7",
                 "md5": "5bd156170af0c142b4c5df6ae24dcc01"
+            }
+        },
+        "Xenophobia.XinG": {
+            "Name": "Xenophobia",
+            "Composer": "XinG",
+            "illustrator": "Ots-15",
+            "chapter": "Single",
+            "previewTime": 111.38,
+            "previewEndTime": 133.79,
+            "EZ": {
+                "charter": "Skuwo",
+                "difficulty": "6.5",
+                "md5": "4d96cfcaceec41f6fb0d693e665c6968"
+            },
+            "HD": {
+                "charter": "Skuwo",
+                "difficulty": "12.7",
+                "md5": "9dad8f34633aa101d18984f018effc63"
+            },
+            "IN": {
+                "charter": "Skuwo",
+                "difficulty": "14.9",
+                "md5": "f0738a13fe549cf954fc4840046f2c9b"
+            }
+        },
+        "Verruckt.Raimukun": {
+            "Name": "Verrückt",
+            "Composer": "Raimukun",
+            "illustrator": "AiLANE",
+            "chapter": "Single",
+            "previewTime": 85.2,
+            "previewEndTime": 105.2,
+            "EZ": {
+                "charter": "Magazet",
+                "difficulty": "7.0",
+                "md5": "be841aad05fd633469ec26ca752cfadb"
+            },
+            "HD": {
+                "charter": "Magazet",
+                "difficulty": "12.6",
+                "md5": "08b8ec3cd0cc119447587905119e58c4"
+            },
+            "IN": {
+                "charter": "Salt",
+                "difficulty": "16.5",
+                "md5": "b29a96266837287fad19248b276a2355"
             }
         },
         "Poseidon.1112vsStar": {
