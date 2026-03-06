@@ -3,7 +3,7 @@ name: 自动更新 Phigros 资源
 on:
   workflow_dispatch:
   schedule:
-    - cron: 0 17 * * 5
+    - cron: 59 8 * * 5
 
 jobs:
   update:
