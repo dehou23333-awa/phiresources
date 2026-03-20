@@ -3841,17 +3841,17 @@
             "EZ": {
                 "charter": "Barbarianerman",
                 "difficulty": "5.5",
-                "md5": "fffe2ec1f2e78dea43063b67aacd3f6d"
+                "md5": "a295d4f85d2d3c6fd476e59bff8f98db"
             },
             "HD": {
                 "charter": "IMD_6",
                 "difficulty": "12.2",
-                "md5": "b05b08faa67655f8ca8f684786fb40f7"
+                "md5": "a92cd19664693d00f8de15c2b12eb66f"
             },
             "IN": {
                 "charter": "_鉄",
                 "difficulty": "14.7",
-                "md5": "900090f5bdfd212d979ee8c041c7b078"
+                "md5": "660125b774d9ea784df2ec20bfc680ce"
             }
         },
         "零號車輛.seatrus": {
@@ -7145,5 +7145,6 @@
                 "md5": "e0fe5a2ffaa75fac4568f9c13e2f3877"
             }
         }
-    }
+    },
+    "_April": {}
 }
