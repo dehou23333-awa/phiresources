@@ -1,6 +1,6 @@
 {
-    "Version": 142,
-    "PhiVersion": "3.18.4",
+    "Version": 143,
+    "PhiVersion": "3.19.0",
     "Songs": {
         "Glaciaxion.SunsetRay": {
             "Name": "Glaciaxion",
@@ -6597,6 +6597,29 @@
                 "charter": "Salt",
                 "difficulty": "16.5",
                 "md5": "b29a96266837287fad19248b276a2355"
+            }
+        },
+        "AfterZABANIYAMUGEdit.Daily天利": {
+            "Name": "After ZABANIYA (MUG Edit)",
+            "Composer": "Daily天利",
+            "illustrator": "Nakaiankow feat. Daily天利",
+            "chapter": "Single",
+            "previewTime": 106.21,
+            "previewEndTime": 124.59,
+            "EZ": {
+                "charter": "After CHARTER",
+                "difficulty": "5.0",
+                "md5": "ad6a353b5f1290f61fb5f52cb8e326a6"
+            },
+            "HD": {
+                "charter": "After CHARTER",
+                "difficulty": "10.2",
+                "md5": "bff5047e8449d55f3d399767c09a78ed"
+            },
+            "IN": {
+                "charter": "After CHARTERS",
+                "difficulty": "15.6",
+                "md5": "f99dc4975d5e1b1edd4e0653e9f3c24b"
             }
         },
         "Poseidon.1112vsStar": {
