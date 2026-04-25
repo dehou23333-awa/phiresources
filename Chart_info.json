@@ -1,6 +1,6 @@
 {
-    "Version": 144,
-    "PhiVersion": "3.19.0.1",
+    "Version": 146,
+    "PhiVersion": "3.19.1.1",
     "Songs": {
         "Glaciaxion.SunsetRay": {
             "Name": "Glaciaxion",
@@ -6620,6 +6620,57 @@
                 "charter": "After CHARTERS",
                 "difficulty": "15.6",
                 "md5": "f99dc4975d5e1b1edd4e0653e9f3c24b"
+            }
+        },
+        "下一秒.BobHouSherlock卓智媛feat兰音Reine": {
+            "Name": "下一秒",
+            "Composer": "Bob Hou & Sherlock卓智媛 feat. 兰音Reine",
+            "illustrator": "虚拟九点",
+            "chapter": "Single",
+            "previewTime": 51.8,
+            "previewEndTime": 71.8,
+            "EZ": {
+                "charter": "Magazet",
+                "difficulty": "4.0",
+                "md5": "8119f4d318096e487bee8ce8695a10f7"
+            },
+            "HD": {
+                "charter": "Magazet",
+                "difficulty": "8.5",
+                "md5": "ae62745b4221260a761550b98b27f15e"
+            },
+            "IN": {
+                "charter": "Salt",
+                "difficulty": "13.2",
+                "md5": "6df7f031fd60aa98bd93edd0016f84e3"
+            }
+        },
+        "玩具狂奏曲終焉.きくお": {
+            "Name": "玩具狂奏曲 -終焉-",
+            "Composer": "きくお",
+            "illustrator": "SEGA (V17AMax modified)",
+            "chapter": "CHUNITHM",
+            "previewTime": 123.23,
+            "previewEndTime": 137.08,
+            "EZ": {
+                "charter": "//TAP to StaRt//",
+                "difficulty": "8.4",
+                "md5": "7930d7254b0f567e2704947c9d57f749"
+            },
+            "HD": {
+                "charter": "Su1fuR: The Hanged Doll",
+                "difficulty": "13.1",
+                "md5": "5fb28902ad21d71087bf4c5bf47040a0"
+            },
+            "IN": {
+                "charter": "Self -the pAtchwork-",
+                "difficulty": "15.8",
+                "md5": "32ffeb5897851ab4d3ab93f4df1e0c32"
+            },
+            "AT": {
+                "charter": "XMT, the Abandoned Puppet",
+                "difficulty": "17.0",
+                "md5": "de2726319b6184f07a01f673a777a385"
             }
         },
         "Poseidon.1112vsStar": {
