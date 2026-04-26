@@ -23,6 +23,12 @@
                 "charter": "Barbarianerman vs. NerSAN",
                 "difficulty": "12.6",
                 "md5": "747ff6e209f497b449ca4d5bdf741573"
+            },
+            "music": {
+                "md5": "44fd81bec575a8a4f74ce334a9b27606"
+            },
+            "ill": {
+                "md5": "53bfc16fe5809fe1c4fb93cd248cd93d"
             }
         },
         "EradicationCatastrophe.NceS": {
@@ -46,6 +52,12 @@
                 "charter": "Barbarianerman",
                 "difficulty": "12.7",
                 "md5": "8c090a7ab7b0796951b92fc6706d6eda"
+            },
+            "music": {
+                "md5": "b633ba4917d7fb07ce075026a14095d0"
+            },
+            "ill": {
+                "md5": "5660cbc2c82ab66ab33ef1c3b41ff6c6"
             }
         },
         "Credits.Frums": {
@@ -74,6 +86,12 @@
                 "charter": "_鉄 (Isotope 59)",
                 "difficulty": "15.7",
                 "md5": "f536dbafd2565ffca24fd8e4c9060d62"
+            },
+            "music": {
+                "md5": "84b0e57e732a0fd2986fca3725254063"
+            },
+            "ill": {
+                "md5": "ce331989c925d967bbcdd511b94d2a25"
             }
         },
         "Dlyrotz.Likey": {
@@ -97,6 +115,12 @@
                 "charter": "XMT小咩兔 vs. Barbarianerman",
                 "difficulty": "13.7",
                 "md5": "f29d3fd54a5aaf503bf9cfae6a6ed98f"
+            },
+            "music": {
+                "md5": "6cd8603a00d32cc321b676cc83339dbf"
+            },
+            "ill": {
+                "md5": "9e9a6019b5424029c3ec75c627b12aaa"
             }
         },
         "EnginexStartmelodymix.CrossingSound": {
@@ -120,6 +144,12 @@
                 "charter": "阿爽",
                 "difficulty": "13.0",
                 "md5": "4b8d3e7fdf92f5ac6afeebb5fed36064"
+            },
+            "music": {
+                "md5": "ed07682eb46e1c42808ce307841353de"
+            },
+            "ill": {
+                "md5": "017af294358492abd8fc109a99c5564c"
             }
         },
         "光.姜米條": {
@@ -143,6 +173,12 @@
                 "charter": "Catcats & 百九十八",
                 "difficulty": "12.4",
                 "md5": "95ee09ef9b477d620c6e211ede295c1d"
+            },
+            "music": {
+                "md5": "322f1d7c4754962c65751e6230a4a0a6"
+            },
+            "ill": {
+                "md5": "2f747b1f653bf6cd79dc892d5614b3fd"
             }
         },
         "Wintercube.CtymaxfeatNceS": {
@@ -166,6 +202,12 @@
                 "charter": "百九十八",
                 "difficulty": "13.3",
                 "md5": "5f50a0d33637bb7de598f5cbf39a05c9"
+            },
+            "music": {
+                "md5": "449cc69443c5b468df1b187b48684e81"
+            },
+            "ill": {
+                "md5": "87464bd837aa757eeec8b46d48d1447b"
             }
         },
         "Cipher20.TetrajectoryfeatCtymax": {
@@ -189,6 +231,12 @@
                 "charter": "Barbarianerman feat. Gausbon",
                 "difficulty": "14.4",
                 "md5": "f1e8b10ca6895e15bb533965ad5d220c"
+            },
+            "music": {
+                "md5": "af0f8288512edb52facf1d977543961c"
+            },
+            "ill": {
+                "md5": "392f17c787a9db5434f90d8ce53869f7"
             }
         },
         "混乱Confusion.OnlyMyBlackScore": {
@@ -212,6 +260,12 @@
                 "charter": "XMT小咩兔",
                 "difficulty": "14.8",
                 "md5": "20f54b81e57d77ca46dbb4339f08c362"
+            },
+            "music": {
+                "md5": "942d0c43ed24be4c4f799f564e5d3b49"
+            },
+            "ill": {
+                "md5": "7eed7adb693c9b6e70666ad71a5c59ed"
             }
         },
         "FULiAUTOSHOOTER.MYUKKE": {
@@ -235,6 +289,12 @@
                 "charter": "AUTO. SHOOTER. fixed by Ctymax",
                 "difficulty": "14.9",
                 "md5": "c40d388128e31b6755b3c8695b590de2"
+            },
+            "music": {
+                "md5": "face78e4f353e5cc7e093e804c9f8e98"
+            },
+            "ill": {
+                "md5": "b1878ab7bc1e5ee775df745e9136974a"
             }
         },
         "HumaN.SOTUI": {
@@ -258,6 +318,12 @@
                 "charter": "CN_115+TangScend",
                 "difficulty": "12.9",
                 "md5": "4c6d564db4c41b6950a8ad1684130aa5"
+            },
+            "music": {
+                "md5": "9236d16ccd7ae17f3587f2385d4915af"
+            },
+            "ill": {
+                "md5": "07eff85365add6bc820d4ac2bf13ad47"
             }
         },
         "PRAW.Bluewind": {
@@ -281,6 +347,12 @@
                 "charter": "晨 vs. 阿爽",
                 "difficulty": "15.1",
                 "md5": "89d0f25004b529bc51aea9fd2273f59e"
+            },
+            "music": {
+                "md5": "f7920326ddfc990d6186e6767664a298"
+            },
+            "ill": {
+                "md5": "718410d1a45ccc1683d70cf95457f8bf"
             }
         },
         "PixelRebelz.Normal1zer": {
@@ -304,6 +376,12 @@
                 "charter": "NerSAN",
                 "difficulty": "15.3",
                 "md5": "1c5473ca1636470dac68b7aedeb078da"
+            },
+            "music": {
+                "md5": "daa4861ff1298746329efa574cd2d5f0"
+            },
+            "ill": {
+                "md5": "43e22a8415336626f5ab8a0ed9ecf7c5"
             }
         },
         "Cereris.SunsetRayNceS": {
@@ -327,6 +405,12 @@
                 "charter": "StupiGGy",
                 "difficulty": "14.7",
                 "md5": "6d4a268685769f5525cbe8d240e96c84"
+            },
+            "music": {
+                "md5": "7d4b0e37e02063c22f6b56a20e1a7c4e"
+            },
+            "ill": {
+                "md5": "ff4cbfa6d30ea9e76c3afefc1530c851"
             }
         },
         "NonMelodicRagezMUGEdit.Normal1zer": {
@@ -350,6 +434,12 @@
                 "charter": "分化者 fixed by Barbarianerman",
                 "difficulty": "16.1",
                 "md5": "6736d81a23526033c9da25057b958515"
+            },
+            "music": {
+                "md5": "4c6b1d0d39971eeca68f3e7fcb3bf3ef"
+            },
+            "ill": {
+                "md5": "9109568de3b1485b8d8e58d21d4a17e7"
             }
         },
         "SultanRage.MonstDeath": {
@@ -373,6 +463,12 @@
                 "charter": "百九十八",
                 "difficulty": "12.3",
                 "md5": "43041115a4cd2f996a2c48ce45615b9d"
+            },
+            "music": {
+                "md5": "297fe2141f4e53cbe878325f433d6061"
+            },
+            "ill": {
+                "md5": "660a65861158f82db033a25691124d51"
             }
         },
         "ClassMemories.AntistarfeatCtymax": {
@@ -396,6 +492,12 @@
                 "charter": "JKy",
                 "difficulty": "13.8",
                 "md5": "bcdef7f2d7bb170fe69585e03cf90bae"
+            },
+            "music": {
+                "md5": "bc0f7ede4ebe12874a0daf8e2246fd03"
+            },
+            "ill": {
+                "md5": "6980900f3d51af7cb0a3a1c0063de442"
             }
         },
         "SURREALISM.Itsuki": {
@@ -419,6 +521,12 @@
                 "charter": "-StupiGGy- fixed by 晨",
                 "difficulty": "13.4",
                 "md5": "9a9282c10d78df29b44609db9a1a1e07"
+            },
+            "music": {
+                "md5": "f9ad1d68dc163df72d340e71f6292248"
+            },
+            "ill": {
+                "md5": "3f7f7e4b34b3e453a06b3b1d4ce1c95e"
             }
         },
         "BonusTime.MegaloPaleWhite": {
@@ -442,6 +550,12 @@
                 "charter": "Uvernight fixed by 百九十八",
                 "difficulty": "13.8",
                 "md5": "bd2492ff2a7cc203178d4f48798813ec"
+            },
+            "music": {
+                "md5": "cde81b72ddf357f11bb17fe46269f251"
+            },
+            "ill": {
+                "md5": "e6da939cf1eeb9dea944d98b773bf6ea"
             }
         },
         "ENERGYSYNERGYMATRIX.Tanchiky": {
@@ -465,6 +579,12 @@
                 "charter": "Ctymax vs. 阿爽  fixed by B B M pow",
                 "difficulty": "14.4",
                 "md5": "e7c45864ea62b1193e534f7dc7a49b9f"
+            },
+            "music": {
+                "md5": "35445521a71aa545b9e5de49c766219e"
+            },
+            "ill": {
+                "md5": "fcfee21c82d0a061570d464bf945754c"
             }
         },
         "NYA.FLuoRiTe姜米條": {
@@ -488,6 +608,12 @@
                 "charter": "HCC!!!",
                 "difficulty": "13.1",
                 "md5": "5d0909fa9f3a2caf1d2c9751a6da4d94"
+            },
+            "music": {
+                "md5": "ffcb5405781cb2cc4b4dc39ec0f85ac5"
+            },
+            "ill": {
+                "md5": "e9908ffd25dfa137a6c800ca2c58d05b"
             }
         },
         "JunXionBetweenLifeAndDeathVIPMix.1N6Fs": {
@@ -511,6 +637,12 @@
                 "charter": "鲲&百九十八",
                 "difficulty": "13.4",
                 "md5": "5f0d9850f5818d58b62bca9aee3acf95"
+            },
+            "music": {
+                "md5": "b03d2d1e694b8616b1147030f3d0846f"
+            },
+            "ill": {
+                "md5": "748efeb0c00836d036114b9ab5366877"
             }
         },
         "cryout.JuE": {
@@ -534,6 +666,12 @@
                 "charter": "Ctymax but 5 years later",
                 "difficulty": "13.6",
                 "md5": "4430d05390a395f7a9ef4afecf893561"
+            },
+            "music": {
+                "md5": "18c3f73835b5b15b74de217096076089"
+            },
+            "ill": {
+                "md5": "b03c384430cadaa2fd88ae5aa937b641"
             }
         },
         "Reimei.影虎": {
@@ -557,6 +695,12 @@
                 "charter": "百九十八",
                 "difficulty": "15.1",
                 "md5": "0bea30710520a183d5514a528fdaacd8"
+            },
+            "music": {
+                "md5": "8dd41e2d4ebb530eb00f130dcf2c0f39"
+            },
+            "ill": {
+                "md5": "aa17b1a826d99cbc268b2b108ffc0e66"
             }
         },
         "尊師TheGuru.rider": {
@@ -580,6 +724,12 @@
                 "charter": "奥術 ~The Empery~",
                 "difficulty": "15.4",
                 "md5": "564f75c0cb40cec39fcb2d4b365ef3f0"
+            },
+            "music": {
+                "md5": "35f6c66ef2fb46b42f9e5172f76ae8c8"
+            },
+            "ill": {
+                "md5": "cbe84e62207c8d7a18fb040d08050ded"
             }
         },
         "Spasmodic.姜米條颶風元力上人": {
@@ -608,6 +758,12 @@
                 "charter": "無極☆雷鳴 ~ ♫死の序曲♫",
                 "difficulty": "16.7",
                 "md5": "43cdd241c56beabdbce071022c7da564"
+            },
+            "music": {
+                "md5": "680ee944fd62eceee94a9ae2a11bc6ec"
+            },
+            "ill": {
+                "md5": "e581115f442b4b79a5ac8abf22a19f79"
             }
         },
         "LeaveAllBehind.rider": {
@@ -631,6 +787,12 @@
                 "charter": "亚树见希子 & 百九十八",
                 "difficulty": "12.7",
                 "md5": "3e007513fceeab7d0aa36bd021d1cfb1"
+            },
+            "music": {
+                "md5": "a809260ded93154e7bf472eef3099577"
+            },
+            "ill": {
+                "md5": "83451c882e4cfb2d4e65fd0dd7a87ebb"
             }
         },
         "ColorfulDays.P4koofeatつゆり花鈴": {
@@ -654,6 +816,12 @@
                 "charter": "阿♪爽",
                 "difficulty": "12.6",
                 "md5": "72429d232a45dde59535356914609d32"
+            },
+            "music": {
+                "md5": "bae9d957e65e1076e46d68f86be2c6e6"
+            },
+            "ill": {
+                "md5": "c006b2d78fe2c643b63d858477c73702"
             }
         },
         "microwav.dandeless": {
@@ -677,6 +845,12 @@
                 "charter": "百九十八",
                 "difficulty": "14.7",
                 "md5": "0b4a1fa0411dddd80c08cf1bfae28f9e"
+            },
+            "music": {
+                "md5": "a132fe3abf0e84da3e2af135233c382c"
+            },
+            "ill": {
+                "md5": "bb0e8c764574b6b751537649dc855671"
             }
         },
         "重生.姜米條": {
@@ -700,6 +874,12 @@
                 "charter": "Barbarianerman",
                 "difficulty": "14.3",
                 "md5": "b40c7431eec5c34db2458a7f53346a80"
+            },
+            "music": {
+                "md5": "00874b80d052c628cacd99dfbbcc09d4"
+            },
+            "ill": {
+                "md5": "e5454d3eb5bbfdd9bc6e803d630093f7"
             }
         },
         "NOONEYESMAN.MYUKKE": {
@@ -723,6 +903,12 @@
                 "charter": "晨 vs. Ctymax",
                 "difficulty": "15.5",
                 "md5": "5f7dd1e25b4f873683434ec40237801e"
+            },
+            "music": {
+                "md5": "63b71ce07b915fb6d22df1d2928cb3f2"
+            },
+            "ill": {
+                "md5": "221690eb61a9b3b2f02062881b821b63"
             }
         },
         "望影の方舟Six.SeURa": {
@@ -746,6 +932,12 @@
                 "charter": "六回目Traveler Scend as \"Knight of Arq\"",
                 "difficulty": "15.9",
                 "md5": "e35d8574ed282261bd36ba6fd1c6913b"
+            },
+            "music": {
+                "md5": "193f4f9ed84409ed5e13bd4e40b798e3"
+            },
+            "ill": {
+                "md5": "e3a6bee7057ac560d4e2fd755ed6c1cd"
             }
         },
         "Igallta.SeURa": {
@@ -774,6 +966,12 @@
                 "charter": "断罪の剣『神』",
                 "difficulty": "17.4",
                 "md5": "f6df141531c9d278f8799398f8678727"
+            },
+            "music": {
+                "md5": "e6daca7d3daf7d9908dfe91598932378"
+            },
+            "ill": {
+                "md5": "fdf6bbf1843be422f761080f4cba6e1b"
             }
         },
         "ClockParadox.WyvernP": {
@@ -797,6 +995,12 @@
                 "charter": "Barbarianerman vs. Alloces",
                 "difficulty": "12.5",
                 "md5": "e6d3f6d07e0cab6c9f772cc419a0c80b"
+            },
+            "music": {
+                "md5": "cb5b210803a65b7bdd10aad667311250"
+            },
+            "ill": {
+                "md5": "8dde24518a9d4d0001ac67b29bc8afe5"
             }
         },
         "Chronologika.Hundotte": {
@@ -820,6 +1024,12 @@
                 "charter": "Ctymax vs. Barbarianerman",
                 "difficulty": "13.9",
                 "md5": "d7af89d2b99a0dd44985e9cf726d0497"
+            },
+            "music": {
+                "md5": "38ac85dcdb71e85d50df40659030763f"
+            },
+            "ill": {
+                "md5": "45de37d2f7fb62a4f757f96b1658c1f9"
             }
         },
         "NickofTime.P4koo": {
@@ -843,6 +1053,12 @@
                 "charter": "NerSAN",
                 "difficulty": "14.7",
                 "md5": "c8437fcade41cfa350f1a48666e12b6f"
+            },
+            "music": {
+                "md5": "abd53934194841c38335afbf2c61f3d8"
+            },
+            "ill": {
+                "md5": "8995c8d63bc11b9c208ff66a66145ae7"
             }
         },
         "Chronomia.Lime": {
@@ -866,6 +1082,12 @@
                 "charter": "時の希 & 百九十八",
                 "difficulty": "15.4",
                 "md5": "c0ee1175ad6148f17b92152714305c6a"
+            },
+            "music": {
+                "md5": "3423a76de1322d604eed3a8ce60c3202"
+            },
+            "ill": {
+                "md5": "f114a90a8746412e63c6346c3f32c9a4"
             }
         },
         "ChronosCollapseLaCampanella.SunsetRay": {
@@ -889,6 +1111,12 @@
                 "charter": "NerSAN vs. 阿爽 『Collapse』",
                 "difficulty": "16.3",
                 "md5": "8932cf8c537f10f1ef3f4cff59e1fec6"
+            },
+            "music": {
+                "md5": "8d69d89f0b41a5c9d6dfcfaf35f04eca"
+            },
+            "ill": {
+                "md5": "b3b85e8c1faf60a368aad75784285a1f"
             }
         },
         "Rrharil.TeamGrimoire": {
@@ -917,6 +1145,12 @@
                 "charter": "RWND -p 16493:62786:92551",
                 "difficulty": "17.6",
                 "md5": "6542afdee34f2fa86ca62af81fddd960"
+            },
+            "music": {
+                "md5": "c1889f5d23b363302111439511a2b319"
+            },
+            "ill": {
+                "md5": "018736c2a525a13a0b3af080eb32f7a3"
             }
         },
         "CraveWave.LandRoot": {
@@ -940,6 +1174,12 @@
                 "charter": "Likey feat. 198",
                 "difficulty": "13.7",
                 "md5": "80d40ee3ddee5e40d6ef23efa452af96"
+            },
+            "music": {
+                "md5": "17c8bf814d1fb073c8c53225dfc46d91"
+            },
+            "ill": {
+                "md5": "85d28451db5ff613c99e2d3e45587478"
             }
         },
         "TheChariotREVIIVAL.Attoclef": {
@@ -963,6 +1203,12 @@
                 "charter": "Ctymax drives in BlindForest",
                 "difficulty": "14.0",
                 "md5": "8203b879ef42bf91a317cbbd06840c06"
+            },
+            "music": {
+                "md5": "74d5f2abd3378bef15da9645ad30f46b"
+            },
+            "ill": {
+                "md5": "7d1dd5faea01d3ae0f43fa0128c39ebe"
             }
         },
         "Luminescence.米虾Fomiki初云CLoudie": {
@@ -986,6 +1232,12 @@
                 "charter": "Pcat & 百九十八",
                 "difficulty": "14.5",
                 "md5": "f85f576ab125d1d5c79a85c115420e5e"
+            },
+            "music": {
+                "md5": "9fff88ebafc55f8e9f633df93ceb9825"
+            },
+            "ill": {
+                "md5": "084c773c106d7bb3445da8248070f559"
             }
         },
         "Retribution.nmyKryexe": {
@@ -1009,6 +1261,12 @@
                 "charter": "Ner as \"SPΔDE\"",
                 "difficulty": "16.2",
                 "md5": "7f93d820a1d1b3273feb591e14ab685f"
+            },
+            "music": {
+                "md5": "ade0f844198f7ac35fef9291bbd4221b"
+            },
+            "ill": {
+                "md5": "304a86a58800ce96ebeb4bf802b029f6"
             }
         },
         "DESTRUCTION321.Normal1zervsBrokenNerdz": {
@@ -1037,6 +1295,12 @@
                 "charter": "∅",
                 "difficulty": "17.3",
                 "md5": "916e21dafc9dc35041b3e88a743ea06b"
+            },
+            "music": {
+                "md5": "f7ae5eebc9e52d24ab3c5f646c8cab7b"
+            },
+            "ill": {
+                "md5": "cdcda45ddb3cd18f32ab294d5433f2b6"
             }
         },
         "DistortedFate.Sakuzyo": {
@@ -1065,6 +1329,12 @@
                 "charter": "unDefined Future",
                 "difficulty": "17.4",
                 "md5": "94b6d8219ad24ad06b460a3d9eeda19d"
+            },
+            "music": {
+                "md5": "c9607d53ba8c60d9cd1004ecb6bc88d2"
+            },
+            "ill": {
+                "md5": "c20db8f2191ba58ade80f8c45174e9f8"
             }
         },
         "Doppelganger.LeaF": {
@@ -1088,6 +1358,12 @@
                 "charter": "Gausbon",
                 "difficulty": "15.1",
                 "md5": "ea0ac8f27727b87d678fc15eaf0f957b"
+            },
+            "music": {
+                "md5": "56152ff15f3ea8d8fe2b3c2b9a4c4166"
+            },
+            "ill": {
+                "md5": "8611757fcf56b320d372806b4ce7d8a8"
             }
         },
         "もぺもぺ.LeaF": {
@@ -1116,6 +1392,12 @@
                 "charter": "阿爽",
                 "difficulty": "15.4",
                 "md5": "5645a6b00d2ff25dfeb5cde1b183a826"
+            },
+            "music": {
+                "md5": "b86b435f2eef061c3c8317da170af6b2"
+            },
+            "ill": {
+                "md5": "09e69cb9a6a1f908bcfae051dc34e36f"
             }
         },
         "MARENOL.LeaF": {
@@ -1139,6 +1421,12 @@
                 "charter": "百九十八",
                 "difficulty": "13.9",
                 "md5": "df41e4579858546343dcbdd251ab9b63"
+            },
+            "music": {
+                "md5": "54d2a6ffa5ac75fc872dd902415e95f5"
+            },
+            "ill": {
+                "md5": "7868a6c6a443bd4a30b922ad5de08560"
             }
         },
         "萤火虫の怨.闫东炜": {
@@ -1162,6 +1450,12 @@
                 "charter": "阿爽 & 百九十八",
                 "difficulty": "13.0",
                 "md5": "2c95eea5d8d23cf128e7a736e987b4c3"
+            },
+            "music": {
+                "md5": "d066519141c43d73eaea90c57798f0bc"
+            },
+            "ill": {
+                "md5": "75de11d948e81f5015672be9b0a8e1e9"
             }
         },
         "万吨匿名信.闫东炜": {
@@ -1185,6 +1479,12 @@
                 "charter": "猫の信 & 百九十八",
                 "difficulty": "13.3",
                 "md5": "4d509b4b36c1f5f462e536d5834b7267"
+            },
+            "music": {
+                "md5": "8c46dd6446ba8b8c1f3aaa91bbbc4780"
+            },
+            "ill": {
+                "md5": "936930a67bba3f02333fb73e1be74a18"
             }
         },
         "风屿.闫东炜": {
@@ -1213,6 +1513,12 @@
                 "charter": "JKy",
                 "difficulty": "15.1",
                 "md5": "4c39c3c8a2b189dbfc406182731b6678"
+            },
+            "music": {
+                "md5": "9337df80e0a0f44f16a0db82ca511c52"
+            },
+            "ill": {
+                "md5": "6782fcb960fe59a4199b17eb71eadd4c"
             }
         },
         "dBdoll.YUESTEVENuen": {
@@ -1241,6 +1547,12 @@
                 "charter": "NerSAN & 百九十八",
                 "difficulty": "13.6",
                 "md5": "eb7ddd29e152bd0168941ab8927e7fa4"
+            },
+            "music": {
+                "md5": "f0f0fa183ec1b7e35d1885663d4a3116"
+            },
+            "ill": {
+                "md5": "f6d5a92fec326caf1dcb4d7f73a5d57e"
             }
         },
         "Dash.小红Akane李祥辉": {
@@ -1264,6 +1576,12 @@
                 "charter": "JKy",
                 "difficulty": "9.7",
                 "md5": "d8d4fdc9dbf3b65688b5fb1deed64f34"
+            },
+            "music": {
+                "md5": "b83986bc5d00909a09074c4cadc084a3"
+            },
+            "ill": {
+                "md5": "2d856db4550873120dd5a152f27d8c89"
             }
         },
         "云女孩.符白牙SiYFics": {
@@ -1287,6 +1605,12 @@
                 "charter": "云正太",
                 "difficulty": "12.8",
                 "md5": "1264c1e45a03da0fa0a0d8c36cec3414"
+            },
+            "music": {
+                "md5": "d9c7790a9f97f28c30a3a59926509128"
+            },
+            "ill": {
+                "md5": "8f415d1142967b9f7552a6649ea6fe86"
             }
         },
         "DropIt.Asuka": {
@@ -1310,6 +1634,12 @@
                 "charter": "NerSAN & 百九十八",
                 "difficulty": "14.2",
                 "md5": "608ae052191dff7fea7fbd3fe0de8dd8"
+            },
+            "music": {
+                "md5": "efd8d5f57c4b7efae9d03d2b830d4f79"
+            },
+            "ill": {
+                "md5": "0dca8bf9256dc1c5305f4692de446a54"
             }
         },
         "RIPPER.Friedwav": {
@@ -1333,6 +1663,12 @@
                 "charter": "撕裂者『Alloces vs. Shin』",
                 "difficulty": "15.4",
                 "md5": "74c3786a81ccd4b33b7e281c2e861a18"
+            },
+            "music": {
+                "md5": "8f2d3b109f6321c3812c9ef03e7859e4"
+            },
+            "ill": {
+                "md5": "96236964e14d4df07451831fa12cd679"
             }
         },
         "Aphasia.闫东炜": {
@@ -1356,6 +1692,12 @@
                 "charter": "百九十八",
                 "difficulty": "13.3",
                 "md5": "7fd43a08a76289ec43c7f4e1e8392f9b"
+            },
+            "music": {
+                "md5": "bddc6af6c9042af563e3a3b07a4fe8b0"
+            },
+            "ill": {
+                "md5": "6ae1b5b5f8dc8927d8ac84e51f8ddf2a"
             }
         },
         "开心病.闫东炜": {
@@ -1379,6 +1721,12 @@
                 "charter": "Barbarianerman feat. 晨",
                 "difficulty": "13.8",
                 "md5": "f80fbc08e5199a0428373c07f5079ced"
+            },
+            "music": {
+                "md5": "bea5046bc5d8fdcdbdfd5fb4174b4541"
+            },
+            "ill": {
+                "md5": "ee0f6f8217137240680bd8df17ea8c16"
             }
         },
         "華灯爱.闫东炜": {
@@ -1402,6 +1750,12 @@
                 "charter": "Barbarianerman",
                 "difficulty": "13.7",
                 "md5": "2fbce9fca020c0a3ba99145cfc16ab1a"
+            },
+            "music": {
+                "md5": "f90c2957efe6725a3d3fff8a3c67ad02"
+            },
+            "ill": {
+                "md5": "6a35816428790bca945cc3ff0335a8cc"
             }
         },
         "FindMe.Kforest": {
@@ -1425,6 +1779,12 @@
                 "charter": "Find_Ctymax fixed by 百九十八",
                 "difficulty": "14.3",
                 "md5": "738800196336c194f3596d9d9fdc44e1"
+            },
+            "music": {
+                "md5": "f21bcefb28cb1b522ac9f5a4f92979d5"
+            },
+            "ill": {
+                "md5": "dbb7ec3abb2e41cc927ca662ae13b01f"
             }
         },
         "Sein.朔Apo11oprogramvsお月さま交響曲ftkuroa荒巻": {
@@ -1448,6 +1808,12 @@
                 "charter": "A.S.H&晨",
                 "difficulty": "15.1",
                 "md5": "d7fb75ea4a0a9f3717d9a34c549d230f"
+            },
+            "music": {
+                "md5": "5f381dc1e6adb14deaae1994c327ca38"
+            },
+            "ill": {
+                "md5": "048f4a2833b9509b0ac264230a732b16"
             }
         },
         "狂喜蘭舞.LeaF": {
@@ -1476,6 +1842,12 @@
                 "charter": "Catcats a.k.a. 無極 vs. H.C.C. fixed by 野从&晨",
                 "difficulty": "16.4",
                 "md5": "7eb44614eabe651eb04c02d45acfd20c"
+            },
+            "music": {
+                "md5": "d89430e00efc9fa0f8c4adec4fe8c7bf"
+            },
+            "ill": {
+                "md5": "6cbc18dc917993f3a48afd1840eb4384"
             }
         },
         "SparkleNewLife.rider": {
@@ -1499,6 +1871,12 @@
                 "charter": "Sparkle Ctymax fixed by 百九十八",
                 "difficulty": "12.8",
                 "md5": "75d93be9f8e6ac56892dbd9214e9d819"
+            },
+            "music": {
+                "md5": "dd406428914d4bce56a64a6e88c7736b"
+            },
+            "ill": {
+                "md5": "d7ab56f1d154548eaf3404b559edcefc"
             }
         },
         "KhronostasisKatharsis.Halv": {
@@ -1522,6 +1900,12 @@
                 "charter": "StupiGGy fixed by 百九十八",
                 "difficulty": "14.0",
                 "md5": "a11c3edd4de2d8de0c91cf8606f20197"
+            },
+            "music": {
+                "md5": "950ca911937ee4b6bb1aaa72a3f03438"
+            },
+            "ill": {
+                "md5": "88d3225bbc99c109a1e12c336f74a703"
             }
         },
         "SnowDesert.WyvernP": {
@@ -1545,6 +1929,12 @@
                 "charter": "VikingNexus",
                 "difficulty": "13.4",
                 "md5": "5e05e3889666cb2400ff0ef3b2ccad46"
+            },
+            "music": {
+                "md5": "8bf635df61362eb0d7f225dca5d7c3cc"
+            },
+            "ill": {
+                "md5": "b8043c32758cc4ac6b47398399a9f030"
             }
         },
         "Burn.NceS": {
@@ -1568,6 +1958,12 @@
                 "charter": "Burn Full Catcats vs. Ctymatch Girl",
                 "difficulty": "15.2",
                 "md5": "c83df4dc1bff2aba0bee13b208002846"
+            },
+            "music": {
+                "md5": "f9ee3f4be337beb75317ddf8cd9e939c"
+            },
+            "ill": {
+                "md5": "af8e21f47989d49819d1fbcb95bf012e"
             }
         },
         "Aleph0.LeaF": {
@@ -1591,6 +1987,12 @@
                 "charter": "Clutter",
                 "difficulty": "16.0",
                 "md5": "1b2d24cadcfc7470a025bfb61bec87c3"
+            },
+            "music": {
+                "md5": "0f87050b461ba7b77b3c4853cce9a12b"
+            },
+            "ill": {
+                "md5": "db1f6dc303f6cdd99566dfa17b7c153b"
             }
         },
         "NextTime.SaMZIng": {
@@ -1614,6 +2016,12 @@
                 "charter": "Gausbon ~ See you next time ~ ",
                 "difficulty": "12.4",
                 "md5": "7653d2acd65cb966123410b6722b13d0"
+            },
+            "music": {
+                "md5": "fbd658a3ad9522d965a04f884498732a"
+            },
+            "ill": {
+                "md5": "452bf7f28bd3b989077983ed829d3eb7"
             }
         },
         "RubbishSorting.CtymaxvsNceS": {
@@ -1637,6 +2045,12 @@
                 "charter": "阿爽 vs. Ctymax -Haose 垃圾-",
                 "difficulty": "13.1",
                 "md5": "76fde38015f3059733fcb0797366c441"
+            },
+            "music": {
+                "md5": "202dda6a5e40465ef142b7e36e6ba3d2"
+            },
+            "ill": {
+                "md5": "6aa82373067821acdebdadec5d0baa1b"
             }
         },
         "AnotherMe.NeutralMoon": {
@@ -1660,6 +2074,12 @@
                 "charter": "NerSAN",
                 "difficulty": "13.6",
                 "md5": "525793cbb7829f56f7932455de8f88fc"
+            },
+            "music": {
+                "md5": "896b9147f5bddb206732502acb81624a"
+            },
+            "ill": {
+                "md5": "513e1633c2f1ec5cfc233c4d11ce4992"
             }
         },
         "mechanted.rareguy": {
@@ -1683,6 +2103,12 @@
                 "charter": "Ctymax",
                 "difficulty": "14.9",
                 "md5": "133ceec872a71df93ed46f1dcfb336cb"
+            },
+            "music": {
+                "md5": "edf3fab16a813795a71294af07b26264"
+            },
+            "ill": {
+                "md5": "3fc47ca7e6c570fd3c9ddc4747e2c536"
             }
         },
         "lifeflashesbeforeweebeyes.BilliumMoto": {
@@ -1706,6 +2132,12 @@
                 "charter": "百九十八",
                 "difficulty": "14.9",
                 "md5": "c8990d0bd298107cc43b855c4922dabb"
+            },
+            "music": {
+                "md5": "8fe45ebd2fcd3f28fd3ab9a159ad557d"
+            },
+            "ill": {
+                "md5": "219e1d86acb3b3d4fbb8ee8c7113ad03"
             }
         },
         "BreakThroughTheBarrier.lixound": {
@@ -1729,6 +2161,12 @@
                 "charter": "百九十八",
                 "difficulty": "14.5",
                 "md5": "2caea09e9ad440b903ccc9b784253e14"
+            },
+            "music": {
+                "md5": "fd78e32ddeda14d4a6d1a0e00a1b2801"
+            },
+            "ill": {
+                "md5": "fd74b04d0be57159b34bf875fb394b37"
             }
         },
         "Chronostasis.黒皇帝": {
@@ -1752,6 +2190,12 @@
                 "charter": "Gausbon fixed by XMT",
                 "difficulty": "16.0",
                 "md5": "7b50770eebd956ef1815b216ef3bb515"
+            },
+            "music": {
+                "md5": "147c20132d5d5406285a2507b61bd3c6"
+            },
+            "ill": {
+                "md5": "080b46823a11d5135374fc86e910daf8"
             }
         },
         "DeadSoul.SoundSouler": {
@@ -1775,6 +2219,12 @@
                 "charter": "Phigros Charting Team",
                 "difficulty": "14.4",
                 "md5": "c3face43c9676514f3103adafc13ab0f"
+            },
+            "music": {
+                "md5": "5e8a20f9d208c096c07644fc06b629a5"
+            },
+            "ill": {
+                "md5": "4ff77270bf20287c38b6f5532f76a795"
             }
         },
         "InfinityHeaven.HyuN": {
@@ -1798,6 +2248,12 @@
                 "charter": "晨 vs. 阿爽",
                 "difficulty": "13.9",
                 "md5": "2bce6d7c27e251815a4f9a5502a42c96"
+            },
+            "music": {
+                "md5": "66f4ac7d6ca3eef9d7ae1197a4b87a68"
+            },
+            "ill": {
+                "md5": "d182151af8c52ec0d371978a9b024a59"
             }
         },
         "Disorder.HyuNfeatYURI": {
@@ -1821,6 +2277,12 @@
                 "charter": "Gausbon",
                 "difficulty": "14.8",
                 "md5": "c6b117ef1061a1afa578f771bae05bcc"
+            },
+            "music": {
+                "md5": "21fded4d4e76c957f198ec4832df3308"
+            },
+            "ill": {
+                "md5": "91413788464d696d61c0ae90413c48d3"
             }
         },
         "CROSSSOUL.HyuNfeatSyepias": {
@@ -1844,6 +2306,12 @@
                 "charter": "無†極",
                 "difficulty": "16.4",
                 "md5": "bde4873b34b8995319f2d2e60fa24a53"
+            },
+            "music": {
+                "md5": "19603f780c0298ffc51e69d8de6c880f"
+            },
+            "ill": {
+                "md5": "f6d3e7f904e972d164c86cf504d10346"
             }
         },
         "SpeedUp.DarTokki": {
@@ -1867,6 +2335,12 @@
                 "charter": "Ctymax vs. 百九十八",
                 "difficulty": "14.0",
                 "md5": "8239686f5313a3574e5b3c6c9b356851"
+            },
+            "music": {
+                "md5": "44c3bca7e8a46cf590121173fcabbddd"
+            },
+            "ill": {
+                "md5": "39fc5994f5d3972a5d4c08a1f137ede2"
             }
         },
         "MagentaPotion.EmoCo": {
@@ -1890,6 +2364,12 @@
                 "charter": "Ctymax vs. 晨",
                 "difficulty": "14.4",
                 "md5": "506df7396d34174c9546fd58e17d3fc2"
+            },
+            "music": {
+                "md5": "c75784e6a3f3308e0a334d8995e1559a"
+            },
+            "ill": {
+                "md5": "5ea449714837391e1696840d562ba0b9"
             }
         },
         "GetBack.CAP3": {
@@ -1913,6 +2393,12 @@
                 "charter": "JKy",
                 "difficulty": "14.1",
                 "md5": "1c10ff8bf39281480d0b8f2946fed532"
+            },
+            "music": {
+                "md5": "e9aa989ec4473c1300359ecf1d20823b"
+            },
+            "ill": {
+                "md5": "6c72b27d2bbada54ad641e2e80005ff9"
             }
         },
         "Palescreen.WyvernPfeatMadol": {
@@ -1936,6 +2422,12 @@
                 "charter": "Jeitie",
                 "difficulty": "15.9",
                 "md5": "a8994dff516664c2c52e120d57e9323e"
+            },
+            "music": {
+                "md5": "620a5fb732ed98b2b4e69ff51f2db167"
+            },
+            "ill": {
+                "md5": "1b860719e87f0987bb719c8c6165c557"
             }
         },
         "GOODTEK.EBIMAYO": {
@@ -1959,6 +2451,12 @@
                 "charter": "百九十八",
                 "difficulty": "14.3",
                 "md5": "77c1347e7899ced658d78a3431a7760f"
+            },
+            "music": {
+                "md5": "7e3365b1149b58b2d7cb2f7d94a70c73"
+            },
+            "ill": {
+                "md5": "e2bafc844313eff48860aaad4fd1b171"
             }
         },
         "GOODBOUNCE.EBIMAYO": {
@@ -1982,6 +2480,12 @@
                 "charter": "Ctymax vs. Gausbounce",
                 "difficulty": "14.5",
                 "md5": "0f74c6dedb04258d4db909407418b105"
+            },
+            "music": {
+                "md5": "13480c897a2256d8f9084d14b6102ec1"
+            },
+            "ill": {
+                "md5": "57ab0069c75c59963358014f34475641"
             }
         },
         "GOODWORLD.EBIMAYO": {
@@ -2005,6 +2509,12 @@
                 "charter": "StupiGGy vs. 阿爽",
                 "difficulty": "14.9",
                 "md5": "cdbff23d0b2262f834923049409e80ee"
+            },
+            "music": {
+                "md5": "40fa49f9c6b4c8c76edd2203da8979b5"
+            },
+            "ill": {
+                "md5": "5e0a86ce24067698a87b8f8114a6a3fb"
             }
         },
         "GOODFORTUNE.EBIMAYO": {
@@ -2028,6 +2538,12 @@
                 "charter": "晨",
                 "difficulty": "15.7",
                 "md5": "068e8f8b4770ecf9c201c419778400b5"
+            },
+            "music": {
+                "md5": "dc2042aad9145881c28835ccffb2e8b2"
+            },
+            "ill": {
+                "md5": "58119c0a6a43919564081c7050c75fbb"
             }
         },
         "GOODRAGE.EBIMAYO": {
@@ -2051,6 +2567,12 @@
                 "charter": "Ctymax vs. 阿爽",
                 "difficulty": "16.0",
                 "md5": "82fbf9ef6b52f2019ba4f35281cf8f10"
+            },
+            "music": {
+                "md5": "cdc9acb622a1fa502533024350b18f58"
+            },
+            "ill": {
+                "md5": "a42f2e975a9b170fa886896c4e456e4c"
             }
         },
         "TheMountainEater.PaulBazooka": {
@@ -2074,6 +2596,12 @@
                 "charter": "百九十八",
                 "difficulty": "14.8",
                 "md5": "8bce6caec9b5d13c1ee849d1d2ddcd42"
+            },
+            "music": {
+                "md5": "9f98625139241448c7407307fcf322e5"
+            },
+            "ill": {
+                "md5": "095a38fa6ca94f358311df6dc3887b1f"
             }
         },
         "Orthodox.tokiwa": {
@@ -2097,6 +2625,12 @@
                 "charter": "Uvernight fixed by StR-1",
                 "difficulty": "13.7",
                 "md5": "1c196a5b8fd30463e2208707f4f0a401"
+            },
+            "music": {
+                "md5": "7c5c53b94d85932cb0e1ae8527d28c55"
+            },
+            "ill": {
+                "md5": "5b7f32be402b75a3a8399cc73362aaa2"
             }
         },
         "EndMe.ZxNXasDelaina": {
@@ -2120,6 +2654,12 @@
                 "charter": "鲲 fixed by 百九十八",
                 "difficulty": "14.2",
                 "md5": "81aeb2691aae483e68f217c5fd7ad386"
+            },
+            "music": {
+                "md5": "44865d156f0534b08b86d9438a3e18b5"
+            },
+            "ill": {
+                "md5": "a8b8e73d39d0e658ac90be9aaf59a59f"
             }
         },
         "ParallelRetrogressionGameVer.Tetrajectory": {
@@ -2143,6 +2683,12 @@
                 "charter": "HaraKuma",
                 "difficulty": "14.2",
                 "md5": "a44813229edd927d89860462376bfac4"
+            },
+            "music": {
+                "md5": "c7484b3b701badb6fe3bdaa3571841af"
+            },
+            "ill": {
+                "md5": "11b9feb856dc49960b328eb788cd2b9d"
             }
         },
         "Starduster.Quree": {
@@ -2166,6 +2712,12 @@
                 "charter": "NerSAN",
                 "difficulty": "15.2",
                 "md5": "64289e758a797f196cd1fe3f07c90834"
+            },
+            "music": {
+                "md5": "4515097cebedca5820ba82287cdb0374"
+            },
+            "ill": {
+                "md5": "55c31c9df82dd0a89af64e7a508ba666"
             }
         },
         "Electron.ElousFZ": {
@@ -2189,6 +2741,12 @@
                 "charter": "百九十八",
                 "difficulty": "13.2",
                 "md5": "ce738038e7894590c0a889a838addc07"
+            },
+            "music": {
+                "md5": "83c57f0c5f867cdb99d6c6c34102eba7"
+            },
+            "ill": {
+                "md5": "65340eb9e9cb90b292bdef2f4630993d"
             }
         },
         "SIGMA.Kryexe": {
@@ -2212,6 +2770,12 @@
                 "charter": "Bσrbσriσn∑rmσn.∑x∑",
                 "difficulty": "15.8",
                 "md5": "3da570800e94cdfd1dea3e2fff330289"
+            },
+            "music": {
+                "md5": "8171d2feb28515210a8bce39995cdc67"
+            },
+            "ill": {
+                "md5": "beab93a867f3dd62fe2141e0f4ce343a"
             }
         },
         "HardcoreKwaya.EnFr": {
@@ -2235,6 +2799,12 @@
                 "charter": "Two skunks (Ctymax and 晨) in Africa shouting WAHHHHHH!",
                 "difficulty": "14.6",
                 "md5": "a2eb1364acd344db65ff62328fc4622c"
+            },
+            "music": {
+                "md5": "1308dea8fc1fcbacffb801fa5a62950f"
+            },
+            "ill": {
+                "md5": "7ba78a66fbb492724c07ee7f14b1d5c2"
             }
         },
         "Aventyr.GrandThawRigelTheatre": {
@@ -2258,6 +2828,12 @@
                 "charter": "Barbarianerman vs. Snorkel",
                 "difficulty": "13.7",
                 "md5": "e8454a759f817759f2d0d7abe1b15182"
+            },
+            "music": {
+                "md5": "8df83d060c2bf9e3e8c6c0c514f287e2"
+            },
+            "ill": {
+                "md5": "df67db21bfbbc869787d965783926517"
             }
         },
         "Trane.MALVA": {
@@ -2281,6 +2857,12 @@
                 "charter": "Barbarianerman",
                 "difficulty": "14.2",
                 "md5": "24934857dad03f99d3f74642bbdbb7ab"
+            },
+            "music": {
+                "md5": "17f646c27d40fcfe4e887fac015b6697"
+            },
+            "ill": {
+                "md5": "f3a9c4744b4585d86ff87e51b485606e"
             }
         },
         "雪降りメリクリ.A39": {
@@ -2304,6 +2886,12 @@
                 "charter": "N\\erry Xmas",
                 "difficulty": "15.4",
                 "md5": "cd6404dff645c9d2951ddb4b2c38b0c0"
+            },
+            "music": {
+                "md5": "773fe6f89dbd9004c27beefc25bcfcb7"
+            },
+            "ill": {
+                "md5": "d7570d88a6bf05909f137e5cce7c735e"
             }
         },
         "CervelleConnexion.SCTL": {
@@ -2327,6 +2915,12 @@
                 "charter": "Eastern Ailuropoda Gang",
                 "difficulty": "14.5",
                 "md5": "c0f52547801739ad01e974711620ee87"
+            },
+            "music": {
+                "md5": "6a812fb22b97d47fade77686993060df"
+            },
+            "ill": {
+                "md5": "25496a6d47d20793d5b701b3a3569482"
             }
         },
         "modulus.PTB10": {
@@ -2350,6 +2944,12 @@
                 "charter": "Pat Brick Man Mr.C",
                 "difficulty": "14.9",
                 "md5": "29416789709af8b145985bb86d3c66a2"
+            },
+            "music": {
+                "md5": "dda5d17b632ae94e79d351fac03b0a8b"
+            },
+            "ill": {
+                "md5": "5e7c9a94812386ca15b2d40e4867e8ee"
             }
         },
         "Wavetapper.Frums": {
@@ -2373,6 +2973,12 @@
                 "charter": "百九十八 vs. Barbarianerman",
                 "difficulty": "13.9",
                 "md5": "c41c189156d97983500ffbcc22064792"
+            },
+            "music": {
+                "md5": "4aba20d8468cd75cc396c80f9bcdbf0f"
+            },
+            "ill": {
+                "md5": "e27228428fc7b9cde55d4f27f910cdf7"
             }
         },
         "大和撫子WildDances.adapatorvsDRIVE": {
@@ -2396,6 +3002,12 @@
                 "charter": "Eaimo vs. CtyNer dancing wildly",
                 "difficulty": "15.1",
                 "md5": "1eb9a63eb052241ad917e05391a5096a"
+            },
+            "music": {
+                "md5": "57babfce953a36fba9f5534721bab6d5"
+            },
+            "ill": {
+                "md5": "719cf9e9a725462019c523d89a1da284"
             }
         },
         "Eltaw.Fl00t": {
@@ -2419,6 +3031,12 @@
                 "charter": "BarbariaNERman vs. JKy",
                 "difficulty": "14.8",
                 "md5": "e62fad9c76a83a8ea7fb7299f29d957d"
+            },
+            "music": {
+                "md5": "91b0cb1527f9dc178150177a0c95d100"
+            },
+            "ill": {
+                "md5": "3335fc6f0bfee7fff0c14fe0f626590a"
             }
         },
         "Initialize.iF": {
@@ -2442,6 +3060,12 @@
                 "charter": "Arenn Saki vs. NerSAN",
                 "difficulty": "11.6",
                 "md5": "e0bfd2453657c21ecd9c462db152c1b2"
+            },
+            "music": {
+                "md5": "55124f70967d1bd1485da65cf4d2a83e"
+            },
+            "ill": {
+                "md5": "a307df2717fd6a158b3941fc334d9b52"
             }
         },
         "桜樹街道.kozatosnow": {
@@ -2465,6 +3089,12 @@
                 "charter": "百九十八",
                 "difficulty": "13.0",
                 "md5": "f27d36001c2db5a6806d245794e44350"
+            },
+            "music": {
+                "md5": "8b9085a7b1a3810ebb40729f16a7ad03"
+            },
+            "ill": {
+                "md5": "43ab48018dfa3e226463a477c9f6c845"
             }
         },
         "GetReady.iF": {
@@ -2488,6 +3118,12 @@
                 "charter": "StupiGGy",
                 "difficulty": "13.8",
                 "md5": "adab6759cb6a13dbf4dea19d00f1ec14"
+            },
+            "music": {
+                "md5": "7a96053bd3bfffcca7a7d4123deb20d5"
+            },
+            "ill": {
+                "md5": "26262a23aab6678d931ebdf189a91b50"
             }
         },
         "volcanic.DETROakaルゼ": {
@@ -2516,6 +3152,12 @@
                 "charter": "Alloces",
                 "difficulty": "16.6",
                 "md5": "25eb2ef11d8d4c15dec4eae4cfbe60fd"
+            },
+            "music": {
+                "md5": "e901bca1ba8f0c34ff20a70426e88bb7"
+            },
+            "ill": {
+                "md5": "5170d67489f907885b570c4cb0e6676a"
             }
         },
         "BetterGraphicAnimation.ルゼ": {
@@ -2539,6 +3181,12 @@
                 "charter": "縱連打の信者☆無極",
                 "difficulty": "15.3",
                 "md5": "4378a1e37ea95d744f570790be996217"
+            },
+            "music": {
+                "md5": "f8808faefe2e54de8b839407b9419685"
+            },
+            "ill": {
+                "md5": "2f324abb69b9851b377bd890da44eb2d"
             }
         },
         "XING.ginkiha": {
@@ -2562,6 +3210,12 @@
                 "charter": "Sillyp vs. 阿爽",
                 "difficulty": "13.9",
                 "md5": "1863d3dad989a5a214056fbca3b3c781"
+            },
+            "music": {
+                "md5": "35213f24642abe78688cf2ea3c562c41"
+            },
+            "ill": {
+                "md5": "08973523cd832df328068a26b046bd9a"
             }
         },
         "FinalStep.Lime": {
@@ -2585,6 +3239,12 @@
                 "charter": "Barbarianerman vs. Uvernight",
                 "difficulty": "14.1",
                 "md5": "05321aa2b94d3b6f17ddbba825d3db7f"
+            },
+            "music": {
+                "md5": "bf090d4b3601fc3712aa0f729ef5da5c"
+            },
+            "ill": {
+                "md5": "fbc0eb1424fb61acacea287c432f58b6"
             }
         },
         "Cthugha.USAO": {
@@ -2613,6 +3273,12 @@
                 "charter": "百九十八 feat. NerSAN",
                 "difficulty": "16.1",
                 "md5": "8a790869c26393481b95efa32ec9cb67"
+            },
+            "music": {
+                "md5": "92e0c75b96020cbfb92fbf0c7c059b20"
+            },
+            "ill": {
+                "md5": "a178ed040ff4fbea90ab314d84698341"
             }
         },
         "WithYou.Cashew": {
@@ -2636,6 +3302,12 @@
                 "charter": "with U",
                 "difficulty": "13.5",
                 "md5": "4494f5a875fe9b7af7c5de0d958024b5"
+            },
+            "music": {
+                "md5": "50c3ce1ddc71644b2225cc41ce3a7754"
+            },
+            "ill": {
+                "md5": "8d1d877807f53229ca9802d5bfc57d93"
             }
         },
         "UnorthodoxThoughts.Joulez": {
@@ -2659,6 +3331,12 @@
                 "charter": "Barbarianerman vs. HaraKuma",
                 "difficulty": "13.9",
                 "md5": "d296b078f38923a66d988e758ace7fca"
+            },
+            "music": {
+                "md5": "58c43f78f915247eaf1c5de4f56eea2f"
+            },
+            "ill": {
+                "md5": "38ebdb49dea5623705f5122fcf28d50b"
             }
         },
         "Apocalyptic.ZClaxxSumaiLight": {
@@ -2682,6 +3360,12 @@
                 "charter": "NerSAN vs. 阿爽",
                 "difficulty": "13.8",
                 "md5": "c086e80ccc16a7faa63db6071ae34346"
+            },
+            "music": {
+                "md5": "52cb7e4b5c9d2f5734d917838721c371"
+            },
+            "ill": {
+                "md5": "c03ca27819e1c9598c92b110ae6beec7"
             }
         },
         "游园地.椒盐菠萝": {
@@ -2705,6 +3389,12 @@
                 "charter": "椒盐倪尔",
                 "difficulty": "13.2",
                 "md5": "4d9653316cfe13860ed6baefda235b32"
+            },
+            "music": {
+                "md5": "b8d01130e774e5437ebc8f30dcb34f2d"
+            },
+            "ill": {
+                "md5": "f0413782831a99d07cd2f50bac859121"
             }
         },
         "energytrixxx.KAH": {
@@ -2728,6 +3418,12 @@
                 "charter": "NerSANNN",
                 "difficulty": "15.4",
                 "md5": "c1ab2db607a142a446278436ded87333"
+            },
+            "music": {
+                "md5": "dfe93a6b7f256cd0fbf75141fa74c64f"
+            },
+            "ill": {
+                "md5": "afc6a24176becf18b909e18edc90203a"
             }
         },
         "Nhelv.Silentroom": {
@@ -2751,6 +3447,12 @@
                 "charter": "森德雷斯 vs. 百九十八",
                 "difficulty": "15.6",
                 "md5": "dd75f086982fdbd1b1ba4cd77be7810f"
+            },
+            "music": {
+                "md5": "9ce4e9ae80b0a53bbdcfb5cf4ca2a1a9"
+            },
+            "ill": {
+                "md5": "5e09cce655a14bde8eacfa0077c37a3c"
             }
         },
         "Arkhei.SeraAmagi": {
@@ -2774,6 +3476,12 @@
                 "charter": "-JKy-",
                 "difficulty": "12.6",
                 "md5": "bbffee73b2cffe3721493c4f9a1419bb"
+            },
+            "music": {
+                "md5": "123ed8da8e536dbd479715fe072ecb86"
+            },
+            "ill": {
+                "md5": "280cf17ac130267c6f43dcc9e4e08d62"
             }
         },
         "Kerberos.Zris": {
@@ -2797,6 +3505,12 @@
                 "charter": "Snorkel vs. NerSAN",
                 "difficulty": "15.8",
                 "md5": "a9e7ba9dd910be9472a59b148e1d1b30"
+            },
+            "music": {
+                "md5": "32c6d7d32746ec0fcd31de0443e3b189"
+            },
+            "ill": {
+                "md5": "a644414456133741556e4c8c8d859a39"
             }
         },
         "parsey.siqlo": {
@@ -2820,6 +3534,12 @@
                 "charter": "TangScend",
                 "difficulty": "14.6",
                 "md5": "1ee064a263e5e6ab40a0633add00eca5"
+            },
+            "music": {
+                "md5": "3451325033b414eb7f55bd28263b865e"
+            },
+            "ill": {
+                "md5": "413aa91f9b64b7368b0e4c8e928dfcc5"
             }
         },
         "Concvssion.Halv": {
@@ -2843,6 +3563,12 @@
                 "charter": "Phigros Charting Team",
                 "difficulty": "15.6",
                 "md5": "e44e3584b5a55be65a8ac0448a281e69"
+            },
+            "music": {
+                "md5": "301897e15404d7be7e5288fec59c4afc"
+            },
+            "ill": {
+                "md5": "511b5ca1afa025faca3a0b52efdc9cf5"
             }
         },
         "ジングルベルJingleBell.A39沙包P": {
@@ -2866,6 +3592,12 @@
                 "charter": "NerSANTA vs. BarbarianerSLEDGE",
                 "difficulty": "14.5",
                 "md5": "dc77214cc0538de960deca205f65f9e5"
+            },
+            "music": {
+                "md5": "fd3c6899e24aa47a3be599e3a3d065be"
+            },
+            "ill": {
+                "md5": "ad8b46487f74b431f0872b0e4a859e8b"
             }
         },
         "TimetoNightSkyfeatLeeYuJin.HyuNKLYDIX": {
@@ -2889,6 +3621,12 @@
                 "charter": "Likey & 198ar",
                 "difficulty": "13.6",
                 "md5": "27fc2a7a339e2a27a8f087d0163f53dc"
+            },
+            "music": {
+                "md5": "5ea10d12a5ad6aa5976531e76b864f24"
+            },
+            "ill": {
+                "md5": "637da10db75fd31413abd4c64afe8e0d"
             }
         },
         "HAZARD.Limpid": {
@@ -2912,6 +3650,12 @@
                 "charter": "阿爽",
                 "difficulty": "14.8",
                 "md5": "a775baf27a38e689158d610cbd786365"
+            },
+            "music": {
+                "md5": "c7a7f1aa29f20ddbaaf4268deb963d90"
+            },
+            "ill": {
+                "md5": "66b85a12d11b75476bb09fc47f68b595"
             }
         },
         "AnotherMe.DAAN": {
@@ -2935,6 +3679,12 @@
                 "charter": "NerSAN vs. Ctymax as \"泥头鱼\"",
                 "difficulty": "15.6",
                 "md5": "8d209bfbc3367472886463281535b37f"
+            },
+            "music": {
+                "md5": "13e04573e17e842bfbbf6abe563afea7"
+            },
+            "ill": {
+                "md5": "504e28fd670630eba2b3d6f58a03b13e"
             }
         },
         "DontNeverAround.HAMA": {
@@ -2958,6 +3708,12 @@
                 "charter": "XMT小咩兔",
                 "difficulty": "15.5",
                 "md5": "4dd1431bb73b490269985dfe99d5ba95"
+            },
+            "music": {
+                "md5": "250a9ee945a507116d85c6c7ebbb4e1e"
+            },
+            "ill": {
+                "md5": "922c25e4d125cf4164936624dd4db228"
             }
         },
         "RESSiSTANCE.ぐるたみん": {
@@ -2981,6 +3737,12 @@
                 "charter": "其三 我所存在的证明",
                 "difficulty": "16.1",
                 "md5": "00478d441b6411c9d3e0a3600f5e342f"
+            },
+            "music": {
+                "md5": "1a7bf0853f8fc7a1ef714029cdb75fe0"
+            },
+            "ill": {
+                "md5": "1906db6f261b2adce3cb3232ccb7d42c"
             }
         },
         "Dreamland.z1onkyrrin": {
@@ -3004,6 +3766,12 @@
                 "charter": "XMT & 198",
                 "difficulty": "13.6",
                 "md5": "4cfe75b1046be695f7a477347aeae1ff"
+            },
+            "music": {
+                "md5": "96a08caf5671b1c4f7d56bada163fd51"
+            },
+            "ill": {
+                "md5": "2476bd7d4b1b9ecd6944dd2a96f1b0df"
             }
         },
         "AnotherRound.JustinDai": {
@@ -3027,6 +3795,12 @@
                 "charter": "TimiTini →\"X\"← 阿爽",
                 "difficulty": "13.3",
                 "md5": "ef98c37ee2c80d0f84a37ab86fe50709"
+            },
+            "music": {
+                "md5": "a7386fabde154a44cb5a992776ea8f72"
+            },
+            "ill": {
+                "md5": "cb1f1eb88a698af1091c514e9679367b"
             }
         },
         "996.李化禹": {
@@ -3050,6 +3824,12 @@
                 "charter": "Barbarianerman & NerSAN in the ICU",
                 "difficulty": "14.7",
                 "md5": "e8f5137f6c327e76bf6461e745e6807a"
+            },
+            "music": {
+                "md5": "14d9462597e185b78aeeac32bb2d395c"
+            },
+            "ill": {
+                "md5": "41c4932dffb116ad790290e64432782e"
             }
         },
         "FutureMind.RayNauticaRekuMochizuki": {
@@ -3073,6 +3853,12 @@
                 "charter": "Future BarbarXMT",
                 "difficulty": "14.2",
                 "md5": "b6f66b6e698c53d42f0b6596d9b5881b"
+            },
+            "music": {
+                "md5": "cd7525e0fe1668b9d72ee7ef4a90c2c9"
+            },
+            "ill": {
+                "md5": "1bf84656612f3783f13a715097853f0a"
             }
         },
         "Luminescent.Daison": {
@@ -3096,6 +3882,12 @@
                 "charter": "百九十八",
                 "difficulty": "14.4",
                 "md5": "5d56f2f657049f57b0db9bd70958d98d"
+            },
+            "music": {
+                "md5": "7ea7ba8cc5f102afc6b01b2f0ed0ba84"
+            },
+            "ill": {
+                "md5": "dc13810249e876f7b065b8ab71015723"
             }
         },
         "FULiAUTOBUSTER.MYUKKE": {
@@ -3119,6 +3911,12 @@
                 "charter": "百九十八 busting 阿爽",
                 "difficulty": "14.6",
                 "md5": "c88c1813af125520163fa9df0b90244a"
+            },
+            "music": {
+                "md5": "faa0706e852a09cf21dda0f70a459008"
+            },
+            "ill": {
+                "md5": "6eb1e7b99430fe9b5e7f4ea2a22260d0"
             }
         },
         "IMustSayNo.TangJuan": {
@@ -3142,6 +3940,12 @@
                 "charter": "Likey & 百九十八",
                 "difficulty": "13.5",
                 "md5": "82046111e703d672eeeeb856d1a8b7fa"
+            },
+            "music": {
+                "md5": "e1f0111c82d88213ebe0c83395296cf3"
+            },
+            "ill": {
+                "md5": "acc1e7bb31a3f6a89d0835db57981cde"
             }
         },
         "opia.rN": {
@@ -3165,6 +3969,12 @@
                 "charter": "Jeitie & CorruptedEntity 『Hollow』",
                 "difficulty": "15.6",
                 "md5": "3c9058b8093c03c8ccf7733a5fd2c796"
+            },
+            "music": {
+                "md5": "a2c8b38924e736fe812220a399adc5e3"
+            },
+            "ill": {
+                "md5": "9d2c6f9ab148d1768a63940a76325bac"
             }
         },
         "Apocalypse.アリスシャッハと魔法の楽団": {
@@ -3188,6 +3998,12 @@
                 "charter": "Rikko & 198",
                 "difficulty": "13.5",
                 "md5": "4f351cbc740f7bcf2986bf3941ff98c5"
+            },
+            "music": {
+                "md5": "b8498bf6cf56e32ecb7e05acc0fe2fbf"
+            },
+            "ill": {
+                "md5": "179781587bf69427a03a828c6ca2b643"
             }
         },
         "Protoflicker.Silentroom": {
@@ -3211,6 +4027,12 @@
                 "charter": "Gausbon",
                 "difficulty": "15.4",
                 "md5": "c688d8b9d351cd51821fd636220f83a9"
+            },
+            "music": {
+                "md5": "5194fa098cb17d5fdbdff76000d7fb86"
+            },
+            "ill": {
+                "md5": "f39182f2d3597e1cdddd34ddef63592b"
             }
         },
         "HorizonBlue.NothingButRequiemfeatAikapinChiyoko": {
@@ -3234,6 +4056,12 @@
                 "charter": "Nothing But Ner & Pcat",
                 "difficulty": "15.7",
                 "md5": "9a9b6e1646246ca30a096206290b4a4a"
+            },
+            "music": {
+                "md5": "860cc8dafcb97902cc66e4c7707dc701"
+            },
+            "ill": {
+                "md5": "e6df1cb68b44965e81f5dc1dec3f6492"
             }
         },
         "YouaretheMiserable.tpazolite": {
@@ -3262,6 +4090,12 @@
                 "charter": "Pat Brick Man Mr.C & Mr.B",
                 "difficulty": "15.8",
                 "md5": "9698bfbbb3c92543408fdea070ccf025"
+            },
+            "music": {
+                "md5": "7f13e01019dfb06646e6ff5ec0eed2e5"
+            },
+            "ill": {
+                "md5": "430311b6dcf73eddb89d29fdb148bc18"
             }
         },
         "Stasis.Maozon": {
@@ -3290,6 +4124,12 @@
                 "charter": "百九十八",
                 "difficulty": "16.7",
                 "md5": "d3705fe7daa0d9eeceb10820c5b2b08d"
+            },
+            "music": {
+                "md5": "b9083149b49a03949c4ca990a47a85dd"
+            },
+            "ill": {
+                "md5": "6e0c86057b9a56e6ca714961784a1a95"
             }
         },
         "いざ参ります.Uskefeat棗いつき": {
@@ -3313,6 +4153,12 @@
                 "charter": "小咩兔、参上",
                 "difficulty": "15.0",
                 "md5": "cd12554c056e72fcc977738fc7f6a12a"
+            },
+            "music": {
+                "md5": "12b36a9e376a4154b56e269a2873ab0d"
+            },
+            "ill": {
+                "md5": "148834f45dfae23b1a8ec20e05289cb2"
             }
         },
         "月下缭乱.月見静華vsLUNARiUM": {
@@ -3336,6 +4182,12 @@
                 "charter": "iv",
                 "difficulty": "14.9",
                 "md5": "8f01391ba52b95b5eb85e684b38747dc"
+            },
+            "music": {
+                "md5": "b2685f992b5b2ef7950b83dd5b396709"
+            },
+            "ill": {
+                "md5": "cb30845acda8df5058c4c43420639349"
             }
         },
         "OnAndOn.ETIAfeatJenga": {
@@ -3359,6 +4211,12 @@
                 "charter": "NerSAN feat. Takanashi Rikko",
                 "difficulty": "15.2",
                 "md5": "2cb8d90017fc6ddb46b13eecb2eeba02"
+            },
+            "music": {
+                "md5": "dc32522e6f39f74ff9d87dc6f75f0707"
+            },
+            "ill": {
+                "md5": "9af1d78bf861a8d0d4502ae159a8db03"
             }
         },
         "DataErr0r.Cosmograph": {
@@ -3382,6 +4240,12 @@
                 "charter": "TangScend -Err0rederci-",
                 "difficulty": "14.5",
                 "md5": "ac697a18d9fdf3df0da31ab1016122ed"
+            },
+            "music": {
+                "md5": "0304b5e08cd0487259b8a2756bb36f7f"
+            },
+            "ill": {
+                "md5": "5a90dc6c1d9d9d4c3b01b444333b51bb"
             }
         },
         "Shadow.SumaiLightvs姜米條": {
@@ -3410,6 +4274,12 @@
                 "charter": "J0(_)I2|\\|3y'5 3|\\||)",
                 "difficulty": "16.2",
                 "md5": "3bf70e559e70cc26af394b4e0393f390"
+            },
+            "music": {
+                "md5": "454640a42599bef23d03a7459a0d6cee"
+            },
+            "ill": {
+                "md5": "6fa1cc6f1bfdb8ec02d8f814893abc57"
             }
         },
         "心之所向.姜米條": {
@@ -3433,6 +4303,12 @@
                 "charter": "倪之所爽",
                 "difficulty": "13.8",
                 "md5": "1dcd16f5d8239a8108336a4d0752e95c"
+            },
+            "music": {
+                "md5": "f5da7d6fccffe182858377b81180c171"
+            },
+            "ill": {
+                "md5": "c8bc219475d01cd83162249e2ce45de9"
             }
         },
         "inferior.姜米條": {
@@ -3456,6 +4332,12 @@
                 "charter": "JKy, the inferior",
                 "difficulty": "14.6",
                 "md5": "9449f51fdf1ded14af963ace30f53f2f"
+            },
+            "music": {
+                "md5": "dd571fccd67c2b622d7c913f151c08b4"
+            },
+            "ill": {
+                "md5": "3cd49728a0dc5dfc2a8719f9f7251e82"
             }
         },
         "csqn.Aoi": {
@@ -3479,6 +4361,12 @@
                 "charter": "s.t.p.g.",
                 "difficulty": "15.9",
                 "md5": "7a98876996402108db5a11a58e6d5cfb"
+            },
+            "music": {
+                "md5": "5497522200834dcd8fd898edb8d0df77"
+            },
+            "ill": {
+                "md5": "7d9dcf7f6b2fc45243dd1f0333d3a9ef"
             }
         },
         "BraveNotes.TurquoiseDRIVENota": {
@@ -3502,6 +4390,12 @@
                 "charter": "Brave Eaimo",
                 "difficulty": "14.6",
                 "md5": "151b72a6c1aec73a5bc487e5b18fc4a3"
+            },
+            "music": {
+                "md5": "a00403d6c84aeed4b4522da50f333063"
+            },
+            "ill": {
+                "md5": "5d0707ada066356e7db3b29989f687a6"
             }
         },
         "盏茗.茶鸣拾贰律": {
@@ -3525,6 +4419,12 @@
                 "charter": "NerSAN sipping XMTea",
                 "difficulty": "13.4",
                 "md5": "ccae287240f8ae917839f3ecbd257a25"
+            },
+            "music": {
+                "md5": "eeb19c2c075c22ef895b3e05bd6c07a1"
+            },
+            "ill": {
+                "md5": "cc3c4141b7f9a0c84bcc65e68261c985"
             }
         },
         "青芽.茶鸣拾贰律": {
@@ -3548,6 +4448,12 @@
                 "charter": "Hook vs. _鉄",
                 "difficulty": "15.2",
                 "md5": "834955cc7ae362b4afad1cda520172ab"
+            },
+            "music": {
+                "md5": "c383ba296cd08177b861ece5e9988b3f"
+            },
+            "ill": {
+                "md5": "e16c635303916ba75c601bf0730bfd37"
             }
         },
         "EternalSnow.AbyssIdols": {
@@ -3571,6 +4477,12 @@
                 "charter": "JKy",
                 "difficulty": "13.5",
                 "md5": "8cd27ee2ba13ec4c1fba401b2ef3abd7"
+            },
+            "music": {
+                "md5": "d9535dcdbc89b99ab50141336480a5a4"
+            },
+            "ill": {
+                "md5": "744700fbab2525fa450c8565e29036fe"
             }
         },
         "RainySeason.AbyssIdols": {
@@ -3594,6 +4506,12 @@
                 "charter": "Raiky Season",
                 "difficulty": "14.2",
                 "md5": "1ef23afeea8612a9c92aab9782d1f21b"
+            },
+            "music": {
+                "md5": "d55f26174c175f02bdb68beb71cbb3d7"
+            },
+            "ill": {
+                "md5": "1a24dd19b13816cdf18576bad645780b"
             }
         },
         "ElCondorPasaPhigrosEdit.PlasticFruits": {
@@ -3617,6 +4535,12 @@
                 "charter": "XMT小咩兔",
                 "difficulty": "15.6",
                 "md5": "b460831bbcda063ada000cf97348f079"
+            },
+            "music": {
+                "md5": "fa59f447fb67e139ff8a1369a4b470f8"
+            },
+            "ill": {
+                "md5": "82b6d0bb0cda576174595ab911d31af7"
             }
         },
         "BreakOver.Kforest": {
@@ -3645,6 +4569,12 @@
                 "charter": "百九十八",
                 "difficulty": "14.9",
                 "md5": "55f2739f269c0585155c051781775f9a"
+            },
+            "music": {
+                "md5": "d16490f54bb7b4d6eeeb732dc392c672"
+            },
+            "ill": {
+                "md5": "b2e18dd86784be1b33f57551ea59f4fb"
             }
         },
         "BelieveLightfeat果丸哒呦.ScalerMestie果丸哒呦": {
@@ -3668,6 +4598,12 @@
                 "charter": "Believe Ctymax & TimiTini",
                 "difficulty": "14.6",
                 "md5": "4f5d5397c0fd268d0ae31472c6e7770c"
+            },
+            "music": {
+                "md5": "a50b14920ac586d35a4a9d7e92579c69"
+            },
+            "ill": {
+                "md5": "dfb3f80cc61619cf3e4eee503a74aba0"
             }
         },
         "Pontdessouvenirs.VeetaCrushvsitsufeatitsu": {
@@ -3691,6 +4627,12 @@
                 "charter": "晨",
                 "difficulty": "15.3",
                 "md5": "30695bdeae33c64dd4fb3cd4e34124c2"
+            },
+            "music": {
+                "md5": "f7f81820ee716c92cda70c825ead80f5"
+            },
+            "ill": {
+                "md5": "f22d10d45692f1d08490f235a5a2c474"
             }
         },
         "青丘.BLACK0": {
@@ -3714,6 +4656,12 @@
                 "charter": "KillJoy",
                 "difficulty": "15.5",
                 "md5": "222d1c5db3e877ab8189adb3318d957a"
+            },
+            "music": {
+                "md5": "0e8a61d990a39b268d80d79701cda75e"
+            },
+            "ill": {
+                "md5": "268b1edf306639029add34998325f2d7"
             }
         },
         "瓷岁.茶鸣拾贰律": {
@@ -3737,6 +4685,12 @@
                 "charter": "『兔』年大吉",
                 "difficulty": "7.0",
                 "md5": "8cb6c5c63dc8a997bde62210cbf85438"
+            },
+            "music": {
+                "md5": "6d724e8f05e9f2b30bc01412659211ca"
+            },
+            "ill": {
+                "md5": "9d6022a42ebe62228e726ebeef788d02"
             }
         },
         "Feast远东之宴.茶鸣拾贰律": {
@@ -3760,6 +4714,12 @@
                 "charter": "Gino",
                 "difficulty": "15.5",
                 "md5": "e736521695003cffd2c37d1159d07019"
+            },
+            "music": {
+                "md5": "3e2d1a61f9fac7bba829c9894f957593"
+            },
+            "ill": {
+                "md5": "72c14288f0b91df471f7c00d60780bb7"
             }
         },
         "インフェルノシティ.Ponchifeatはぁち": {
@@ -3783,6 +4743,12 @@
                 "charter": "Alloces",
                 "difficulty": "15.7",
                 "md5": "7ae19565d1e47f4614a364df18a972e6"
+            },
+            "music": {
+                "md5": "726c25281f11332a3f8c0c89e1ffebb7"
+            },
+            "ill": {
+                "md5": "98b6d9ebd68cccd8712fafa9097c6954"
             }
         },
         "Upshift.Iriss-Frantzz": {
@@ -3806,6 +4772,12 @@
                 "charter": "_鉄",
                 "difficulty": "15.5",
                 "md5": "46a171034f062ef7878b2b0902cbeb3a"
+            },
+            "music": {
+                "md5": "c608ba17ea6bc9a476b6a61d14513d9f"
+            },
+            "ill": {
+                "md5": "154ef77741d24eb16a5f2f132c76ea27"
             }
         },
         "PoisonANDORAffection.LeaF": {
@@ -3829,6 +4801,12 @@
                 "charter": "1÷98",
                 "difficulty": "15.7",
                 "md5": "dc3386e3da6ed339cb5acb0f81c3cf4e"
+            },
+            "music": {
+                "md5": "ba73ac731942ac595a8566366293c104"
+            },
+            "ill": {
+                "md5": "f810c3965e918099dea4b4bf7383c059"
             }
         },
         "Random.SobremSilentroom": {
@@ -3852,6 +4830,12 @@
                 "charter": "_鉄",
                 "difficulty": "14.7",
                 "md5": "660125b774d9ea784df2ec20bfc680ce"
+            },
+            "music": {
+                "md5": "ccddec9773fa423989de52a075449298"
+            },
+            "ill": {
+                "md5": "9d7e06df420641e4efc896dea1550e08"
             }
         },
         "零號車輛.seatrus": {
@@ -3875,6 +4859,12 @@
                 "charter": "Pcat【零】198",
                 "difficulty": "16.2",
                 "md5": "a1925513dce51553dc034a69f203d239"
+            },
+            "music": {
+                "md5": "0a590aae5693ff3a26d41bb80a4dae39"
+            },
+            "ill": {
+                "md5": "14275d4b0296671669d0a1943e2c99a3"
             }
         },
         "NowIsTheTimeDoIt.RoyMikelate": {
@@ -3898,6 +4888,12 @@
                 "charter": "Pat Brick Man Mr.N feat. Ner of Time",
                 "difficulty": "14.3",
                 "md5": "aeb9d9f289d862f31e3f486bc725f4b5"
+            },
+            "music": {
+                "md5": "fb38681b7482b5ff315c5b8792648fb9"
+            },
+            "ill": {
+                "md5": "ce6a99dfd669f7659eaddfcb6fc73042"
             }
         },
         "Bougainvillea.Jade": {
@@ -3921,6 +4917,12 @@
                 "charter": "Barbarvillea",
                 "difficulty": "13.2",
                 "md5": "5145b5f4c35339945580c87fb35a216c"
+            },
+            "music": {
+                "md5": "a31f65a0dcca4f59b4c4a3fc9dc61ff0"
+            },
+            "ill": {
+                "md5": "0f4f3961d114e6691248e1b69cd696b8"
             }
         },
         "神話.PicaM2U": {
@@ -3944,6 +4946,12 @@
                 "charter": "P & U",
                 "difficulty": "13.5",
                 "md5": "37585da8fbfbb517ebc341328a6aa659"
+            },
+            "music": {
+                "md5": "685048cdcd45c2fe8f325976936fa7c7"
+            },
+            "ill": {
+                "md5": "1be5629b9f688668c648c5f05d055408"
             }
         },
         "Elúltimobaile.Θ": {
@@ -3967,6 +4975,12 @@
                 "charter": "百九十八 feat. Likey",
                 "difficulty": "14.1",
                 "md5": "4a1258dc256c636b2d9a55ae0ed69607"
+            },
+            "music": {
+                "md5": "d0e59d4e3cd56b75277def2859c23609"
+            },
+            "ill": {
+                "md5": "77dd4d40f288706b09a81e37fa3c52ce"
             }
         },
         "Trojan.litmus": {
@@ -3990,6 +5004,12 @@
                 "charter": "Warning: XMT is infected by Trojan!!",
                 "difficulty": "15.0",
                 "md5": "e8cf7bd21610b7974c37379db87819d9"
+            },
+            "music": {
+                "md5": "d3e549a1a97cb17ca23f6682a44961ea"
+            },
+            "ill": {
+                "md5": "6205747ea01144a10d4edb9daf5cc114"
             }
         },
         "TemporalShifting.LureRabbitVC": {
@@ -4013,6 +5033,12 @@
                 "charter": "Gausbon vs. 阿爽",
                 "difficulty": "15.2",
                 "md5": "0c4eead5487d029e7bb2df08220052aa"
+            },
+            "music": {
+                "md5": "2d7fccec308260df76e43e23c2f65370"
+            },
+            "ill": {
+                "md5": "dd3c022c548f6d2b662858abb2e75d87"
             }
         },
         "Adastraperaspera.RabbitHouse": {
@@ -4036,6 +5062,12 @@
                 "charter": "Hara小兔组",
                 "difficulty": "16.3",
                 "md5": "cd6c616fc1349db5c0db19ea7e316a88"
+            },
+            "music": {
+                "md5": "5f8d1acaed2203988216668a5e79a716"
+            },
+            "ill": {
+                "md5": "4db9f099f8c1b5f2f2db1fa0d8c0a9da"
             }
         },
         "Ajourneytothemoonlight.Yesod": {
@@ -4059,6 +5091,12 @@
                 "charter": "Ner & 198 from 「PHIGROS MOON」",
                 "difficulty": "14.5",
                 "md5": "7c45b148f903d3601ac9b0bab9ff119f"
+            },
+            "music": {
+                "md5": "fd017d664c0665daf447036ff28ffd04"
+            },
+            "ill": {
+                "md5": "9c2c1af3878e3333215e34f5df04394c"
             }
         },
         "RainyHeart.BelieverInYou阿卡姆巫师": {
@@ -4082,6 +5120,12 @@
                 "charter": "HaraKuma",
                 "difficulty": "12.9",
                 "md5": "0a250758fd02fa771225d08cab3cdabc"
+            },
+            "music": {
+                "md5": "ce2507089cd50da81a3f80fae2eac8cf"
+            },
+            "ill": {
+                "md5": "68769102456d2243eadf9e2f8cd073fe"
             }
         },
         "Realms.HinkikAHimitsu": {
@@ -4105,6 +5149,12 @@
                 "charter": "NerSAN",
                 "difficulty": "13.8",
                 "md5": "93d69d7308ba350e1221eb3d31b58100"
+            },
+            "music": {
+                "md5": "3b78eecac9a7cb457aa4a709de6bcf47"
+            },
+            "ill": {
+                "md5": "9f1401b50cc56c1e7b9db2456459389b"
             }
         },
         "ぱぴぷぴぷぴぱ.ころねぽちWith立秋": {
@@ -4128,6 +5178,12 @@
                 "charter": "さるふるふるさ",
                 "difficulty": "15.9",
                 "md5": "fe26ac1b9dbae7c30f767909ea7f3f24"
+            },
+            "music": {
+                "md5": "1723df905d1284e33e95dbb490e1b747"
+            },
+            "ill": {
+                "md5": "e1a79d55ee0526b6305f4458f1cdd7b8"
             }
         },
         "TriumphRegret.typeMARS": {
@@ -4151,6 +5207,12 @@
                 "charter": "TimiTini & HaraKuma",
                 "difficulty": "15.0",
                 "md5": "cb6d79e41cc02be777cb643967b2686b"
+            },
+            "music": {
+                "md5": "c9cd85f41deaa6218b4edf825b9d4267"
+            },
+            "ill": {
+                "md5": "ec1e654675299d64b696a20f3e81b61d"
             }
         },
         "SATELLITE.かめりあ": {
@@ -4179,6 +5241,12 @@
                 "charter": "N.E.R.1.9.8.",
                 "difficulty": "16.2",
                 "md5": "707a310d80b56d0e90433576609b8ef8"
+            },
+            "music": {
+                "md5": "e9a542166c5654920f23aa4776ac0ed9"
+            },
+            "ill": {
+                "md5": "664fae50ea965745632eb677ce7a9aca"
             }
         },
         "DancewithSilence.かめりあ": {
@@ -4202,6 +5270,12 @@
                 "charter": "晨_鉄",
                 "difficulty": "15.2",
                 "md5": "035cd9169db2f5ed64982fc9f7c0f35f"
+            },
+            "music": {
+                "md5": "d5ea8ee62f8fd3bc198eb5f94f2675c9"
+            },
+            "ill": {
+                "md5": "5eb9cb4e0f94891c3f416a62c2498cb0"
             }
         },
         "LabyrinthinKowloonWalledWorld.かめりあ": {
@@ -4225,6 +5299,12 @@
                 "charter": "198 in Kowloon",
                 "difficulty": "15.6",
                 "md5": "50fd7b575cdd22cab2a121b47ba06e9a"
+            },
+            "music": {
+                "md5": "e5e47aab5a6e4d53115e00a435b06564"
+            },
+            "ill": {
+                "md5": "0d64f46ae262d143cb8777261077421a"
             }
         },
         "ComputeItWithSomeDevilishAlcoholicSteampunkEngines.かめりあ": {
@@ -4248,6 +5328,12 @@
                 "charter": "Gausbon vs. XMT小咩兔",
                 "difficulty": "15.8",
                 "md5": "b808b1301f21e5a8e878b6f0c229c2c3"
+            },
+            "music": {
+                "md5": "0a02168892baeb028e9ef88bbc40f0ec"
+            },
+            "ill": {
+                "md5": "34286c62e9281a1841f61055e772b0be"
             }
         },
         "ERABYECONNEC10N.かめりあ": {
@@ -4276,6 +5362,12 @@
                 "charter": "2B45524142592B45",
                 "difficulty": "17.3",
                 "md5": "0b98378b937d11c1b5d54924ac592235"
+            },
+            "music": {
+                "md5": "778bf26d4c5734d8ea896c37a39102f4"
+            },
+            "ill": {
+                "md5": "fb0b4206a18d69ac2a563d4455fe2669"
             }
         },
         "DiamondEyes.SYNTHETIC": {
@@ -4299,6 +5391,12 @@
                 "charter": "Clutter",
                 "difficulty": "13.4",
                 "md5": "0f76e326ca7b0c8179cd2fae069d9e8a"
+            },
+            "music": {
+                "md5": "3e6fe18c210d5bd1422caf4a073839a9"
+            },
+            "ill": {
+                "md5": "fd689b91b18de3cbf3c32448af5afc1f"
             }
         },
         "Bitterblossom.imvi": {
@@ -4322,6 +5420,12 @@
                 "charter": "百九十八",
                 "difficulty": "13.5",
                 "md5": "8852d0d263833c4bd0f065df3ba6910f"
+            },
+            "music": {
+                "md5": "6bc242ec91fb32472afadabd40e3a0de"
+            },
+            "ill": {
+                "md5": "2d0e7799356ebeb53ad7a604366eaca9"
             }
         },
         "SilenceisGoldenSpeechisGolden.NIWASHI": {
@@ -4345,6 +5449,12 @@
                 "charter": "Hara is golden, Kuma is golden",
                 "difficulty": "15.6",
                 "md5": "f08841166647241828dfca777b2e2182"
+            },
+            "music": {
+                "md5": "367b5c1d54e4def3551e0fc8bcd05ed1"
+            },
+            "ill": {
+                "md5": "7bab351d00d7d9a660a57ba8243ddbaf"
             }
         },
         "FracturedAngel.DJRaisei": {
@@ -4368,6 +5478,12 @@
                 "charter": "逆天使の悪魔 【Likey】",
                 "difficulty": "16.3",
                 "md5": "a437da31d497d8cad70e8c630571ff51"
+            },
+            "music": {
+                "md5": "e4a5c319967ab28ead61a130c599a99f"
+            },
+            "ill": {
+                "md5": "9f8e2206644bfa77b10c5584b0867b09"
             }
         },
         "JourneywithYou.Iris": {
@@ -4391,6 +5507,12 @@
                 "charter": "Su1fuR -All about YOU & ME-",
                 "difficulty": "13.7",
                 "md5": "b5be576f52e62fb8b51691066a6328cf"
+            },
+            "music": {
+                "md5": "181c089ac292fb756e93d180506c856f"
+            },
+            "ill": {
+                "md5": "4bc21f521c62cdce3a0a0d7076288da9"
             }
         },
         "SecretIllumination.Yooh": {
@@ -4414,6 +5536,12 @@
                 "charter": "NerSAN",
                 "difficulty": "14.7",
                 "md5": "92e022b9e5b445a7aa467d7991c42204"
+            },
+            "music": {
+                "md5": "e67999f597fe67f2f4cc23a0bcf232fb"
+            },
+            "ill": {
+                "md5": "86c822119dadd844472258868d308adc"
             }
         },
         "InvertedWorld.ARForest": {
@@ -4437,6 +5565,12 @@
                 "charter": "ƃuɐnɥs∀ .sʌ uoqsnɐ⅁",
                 "difficulty": "15.5",
                 "md5": "450b4aac7762a6ec3adc103dcbd674ba"
+            },
+            "music": {
+                "md5": "23b0770f0f46873794794205719a842a"
+            },
+            "ill": {
+                "md5": "64840a5cbee6bde2f79c9abfe536ffbc"
             }
         },
         "月詠に鳴る.Feryquitousfeat藍月なくる": {
@@ -4465,6 +5599,12 @@
                 "charter": "StupiGGy",
                 "difficulty": "15.7",
                 "md5": "6f40fd2c9d58f1e89d616fe400eb9c57"
+            },
+            "music": {
+                "md5": "a3ad9cb4b54f4ac785226d0cb8cd4bb7"
+            },
+            "ill": {
+                "md5": "dc73069f1312dc0fd071d351694cf7a3"
             }
         },
         "TECHNOPOLIS2085.PRASTIKDANCEFLOOR": {
@@ -4493,6 +5633,12 @@
                 "charter": "TECHNOXMT vs. LATENCYPOLIS",
                 "difficulty": "15.9",
                 "md5": "ad3e12faf9f8597edcc83e7e019a5b06"
+            },
+            "music": {
+                "md5": "f6a491e3b6476ef32a4fca3b0e7d49f6"
+            },
+            "ill": {
+                "md5": "11f2fcfdb3ec5f3f6fd94510967361c8"
             }
         },
         "祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音": {
@@ -4521,6 +5667,12 @@
                 "charter": "フィグロス譜面チーム \"Rikko feat. Ner\" -Pray for \"PHI\"-",
                 "difficulty": "17.3",
                 "md5": "78218a69313189ad1adc591b91055673"
+            },
+            "music": {
+                "md5": "76b0d9b3fe7ac624d75c6d2016e1720d"
+            },
+            "ill": {
+                "md5": "cfdf2e8753c8a47a3dda0a451019545c"
             }
         },
         "bye.DingerBox": {
@@ -4544,6 +5696,12 @@
                 "charter": "Ner ~ See you next time ~",
                 "difficulty": "14.8",
                 "md5": "b57bfe95b7d38831986b2a43627e41c0"
+            },
+            "music": {
+                "md5": "7854be1321c7e1965dd97ec901aea517"
+            },
+            "ill": {
+                "md5": "bc25a84fbddff5e81dfca86799e34ac6"
             }
         },
         "聖夜讃歌.A39沙包P": {
@@ -4567,6 +5725,12 @@
                 "charter": "NerSANTA & Gausbell",
                 "difficulty": "15.2",
                 "md5": "21ffbbcc41b4aa6e4820157340817190"
+            },
+            "music": {
+                "md5": "a8fb6c823721f4a0807a09b1c59081fb"
+            },
+            "ill": {
+                "md5": "eea93bbb3360a0d4a7d6c321e99cb4ec"
             }
         },
         "ストレイソウルアラウンド.みーに": {
@@ -4590,6 +5754,12 @@
                 "charter": "クラッタ・アナザー・ラウンド",
                 "difficulty": "14.3",
                 "md5": "2aa8d573602bdf5c67a715d603b80a5e"
+            },
+            "music": {
+                "md5": "3c7128cf1a32f1a0e331f825384a0fec"
+            },
+            "ill": {
+                "md5": "fa49ed9a4f7c5a367b621ef03bcacb86"
             }
         },
         "ManifoldHypothesis.cybermisofeattigerlily": {
@@ -4613,6 +5783,12 @@
                 "charter": "Gausbon feat. 迟戈&野从",
                 "difficulty": "14.6",
                 "md5": "480ced3f57df43032a82d51312f4e7af"
+            },
+            "music": {
+                "md5": "7e3f027964fbe1696e1aedc46f6626a3"
+            },
+            "ill": {
+                "md5": "1fe93a6b909087a49394128909a6b4f1"
             }
         },
         "KMoeVIP.ZxNX": {
@@ -4636,6 +5812,12 @@
                 "charter": "C.Max (PBM)",
                 "difficulty": "15.9",
                 "md5": "ed5dbe36f49b641c346ff586d5a29580"
+            },
+            "music": {
+                "md5": "ed2365ee7e676413e4133867187703a3"
+            },
+            "ill": {
+                "md5": "4f92e9ccc6c3f41245460b682efbba3e"
             }
         },
         "GVNGlitterVomitusandNeon.SaltySaltUnfold33": {
@@ -4659,6 +5841,12 @@
                 "charter": "A.S.H.",
                 "difficulty": "15.8",
                 "md5": "92c14a0bc1dbe6ffb5d18cb33572fc5b"
+            },
+            "music": {
+                "md5": "c30be275cb27aa9a72175c24d3e54bd1"
+            },
+            "ill": {
+                "md5": "5c76dfc1c805d97dd33d9653bb5921aa"
             }
         },
         "CrushBETA.shadow_bling": {
@@ -4682,6 +5870,12 @@
                 "charter": "Timi今天吃神马",
                 "difficulty": "15.1",
                 "md5": "71bee280b27693427f021ecb3799744d"
+            },
+            "music": {
+                "md5": "7492cd3826c014b7aa5065ab1fc1c07f"
+            },
+            "ill": {
+                "md5": "47da08afb377f474af250986a37cb600"
             }
         },
         "BrokenSky.JungoMAX3feat刘佳宜Snow幻影刃shadow": {
@@ -4705,6 +5899,12 @@
                 "charter": "Su1fuR",
                 "difficulty": "13.2",
                 "md5": "51021042e1b888e3c06bca60efa45e74"
+            },
+            "music": {
+                "md5": "20c36fb28ae484b5695243d4903d0fa2"
+            },
+            "ill": {
+                "md5": "738be268ec5a735c5ad7fbb1ffb27425"
             }
         },
         "BRAINHACKER.SOMON": {
@@ -4728,6 +5928,12 @@
                 "charter": "COLORFUL BLACK GAUSBON",
                 "difficulty": "14.8",
                 "md5": "eca598c5bd4f3001899562c6f0d63c0b"
+            },
+            "music": {
+                "md5": "05e4ffede8154bfdf2dd1abba02fd740"
+            },
+            "ill": {
+                "md5": "d7d8d451e16ad2e21f0089ca358cd067"
             }
         },
         "Xenolith.Tatsh": {
@@ -4751,6 +5957,12 @@
                 "charter": "Xlutter guided by three Oaths",
                 "difficulty": "14.2",
                 "md5": "1acab65bba93c59ac530d8fdb36d202b"
+            },
+            "music": {
+                "md5": "75d86a1adfdfc5c1907c3bba84c4163d"
+            },
+            "ill": {
+                "md5": "f5d818227a83ca577d1c47706b0d3c3b"
             }
         },
         "ArtificialExistence.JunKuroda": {
@@ -4774,6 +5986,12 @@
                 "charter": "Salt & _鉄 inspired by 存在証明 [X]",
                 "difficulty": "14.7",
                 "md5": "6678785632a886760c89b4950e205205"
+            },
+            "music": {
+                "md5": "f052eacf33b2600928d32564a621ee9f"
+            },
+            "ill": {
+                "md5": "5f90dd70fbca6940b343382fb0e001d9"
             }
         },
         "IndelibleScar.Noah": {
@@ -4802,6 +6020,12 @@
                 "charter": "上班睡大觉_Sleepyhead",
                 "difficulty": "16.5",
                 "md5": "e98d3ba1a04f3a4c92822d2293e6c536"
+            },
+            "music": {
+                "md5": "a007af4e5533492f40a71a4574b438d5"
+            },
+            "ill": {
+                "md5": "9b06bb981ed63f701cefd2b3d7132a43"
             }
         },
         "Antithese.Blacklolita": {
@@ -4830,6 +6054,12 @@
                 "charter": "弧光",
                 "difficulty": "16.4",
                 "md5": "918addb5a520382b4a76576a4ff9d784"
+            },
+            "music": {
+                "md5": "1b1ce948b3f5bd4079f27cb271358daf"
+            },
+            "ill": {
+                "md5": "5e3563ea524dd71130fc0f86f3c73dc3"
             }
         },
         "PRAGMATISMRESURRECTION.Laur": {
@@ -4858,6 +6088,12 @@
                 "charter": "THE LAST 198",
                 "difficulty": "16.6",
                 "md5": "1eb8d24cb50aa94cbd611813d2e3ba0c"
+            },
+            "music": {
+                "md5": "02acc66657f341635bf261cab69f58d3"
+            },
+            "ill": {
+                "md5": "8d0790ce8faffb7a219c2bde9ef831f4"
             }
         },
         "ShineAfter.ADeanJocularACE": {
@@ -4881,6 +6117,12 @@
                 "charter": "Salt & Uvernight",
                 "difficulty": "14.6",
                 "md5": "799b35311420b57f3b6dc613d43962c7"
+            },
+            "music": {
+                "md5": "ac6006430506aa0cb90fa23433945733"
+            },
+            "ill": {
+                "md5": "980ebcccd15589ab04cbdf935fa52c4d"
             }
         },
         "Bloom.targ麻团qwq": {
@@ -4904,6 +6146,12 @@
                 "charter": "SPΔDE & 倪尔qwq",
                 "difficulty": "14.9",
                 "md5": "c5fb34d310e13ac436d4729f448d7f27"
+            },
+            "music": {
+                "md5": "830c0f50cf8a86c320780b4b43499fa9"
+            },
+            "ill": {
+                "md5": "b240b06fe453ccfd7ef38c18beed8441"
             }
         },
         "幽世桔梗.Capchiifeatまるもこ": {
@@ -4927,6 +6175,12 @@
                 "charter": "Su1fuR、快斬！",
                 "difficulty": "14.8",
                 "md5": "b47317ad16fbfed6b7da80562248ce88"
+            },
+            "music": {
+                "md5": "4516b4d9f2daab76e49b03287aff4edb"
+            },
+            "ill": {
+                "md5": "f21ea517ed182393c5b225ab6bc93bd3"
             }
         },
         "千紫万紅.r0yvsWABI": {
@@ -4950,6 +6204,12 @@
                 "charter": "Salt & Barbarianerman",
                 "difficulty": "15.5",
                 "md5": "0c618af7124e91aae3facaeb6827d4bb"
+            },
+            "music": {
+                "md5": "4dd838271e3fca597d42ac1843b437b8"
+            },
+            "ill": {
+                "md5": "df77d21dce515406771a350fe4bdac67"
             }
         },
         "明鏡烈火.MUEvsRekuMochizuki": {
@@ -4973,6 +6233,12 @@
                 "charter": "Arenn Salty feat. LDA",
                 "difficulty": "15.9",
                 "md5": "fc0d0567f08de537ccf733f61921dd25"
+            },
+            "music": {
+                "md5": "4c75a4159fa2ea292a25c2c705844621"
+            },
+            "ill": {
+                "md5": "e375852d68286f262d8e9c0aef509927"
             }
         },
         "今天不是明天.PIKASONICfeat兰音Reine": {
@@ -4996,6 +6262,12 @@
                 "charter": "杂波不是杂啵，野从不是野丛",
                 "difficulty": "13.4",
                 "md5": "27a7b66d6f8aa895c7107a1d619c9a2a"
+            },
+            "music": {
+                "md5": "5a13e1b74f9be51f40f544b187869b9d"
+            },
+            "ill": {
+                "md5": "34510fd0685ab95bc815701f23ddd0d7"
             }
         },
         "Cuvism.Fl00tvsHalv": {
@@ -5024,6 +6296,12 @@
                 "charter": "JKy vs StrayCat",
                 "difficulty": "16.7",
                 "md5": "176d1319fed5e7f5faaf2519da24578a"
+            },
+            "music": {
+                "md5": "d6222b79ee68c1919872d00ffb3325a3"
+            },
+            "ill": {
+                "md5": "99c3048d143c9eb2e43299677e3f4e3a"
             }
         },
         "iLArtifact.Link0": {
@@ -5047,6 +6325,12 @@
                 "charter": "XMT小咩兔 vs. 上班睡大觉_Sleepyhead",
                 "difficulty": "15.7",
                 "md5": "c1b20c46067ee5c197bbb433a8f99270"
+            },
+            "music": {
+                "md5": "c1b6db4c26e5492334f54bb1804d28b4"
+            },
+            "ill": {
+                "md5": "36a7b5f79d3aa8534ece5f25504b1552"
             }
         },
         "atruthseekerCommunicationwithUtopiawillbelost.kuro": {
@@ -5070,6 +6354,12 @@
                 "charter": "-Seek A Lnside Truth-",
                 "difficulty": "15.8",
                 "md5": "4d2f2c43b16cf4778f19d9cb99643ac2"
+            },
+            "music": {
+                "md5": "7a6cc4086b27fe75ce13db8db5846b98"
+            },
+            "ill": {
+                "md5": "6f8e7284aecc8a4008096af996176c0b"
             }
         },
         "BoundedQuietude.FiniteLimitvsSiLiS": {
@@ -5093,6 +6383,12 @@
                 "charter": "孤独な騎士 Against 魔王、大咩兔",
                 "difficulty": "16.2",
                 "md5": "532d90c1e4c05366439a890143c2631c"
+            },
+            "music": {
+                "md5": "0fd4e986cf62efdb2c8c182ed8ba93ad"
+            },
+            "ill": {
+                "md5": "b72f9ed3c42a565a1cb0df3a53d037c2"
             }
         },
         "君往何处QuoVadis.M2U": {
@@ -5116,6 +6412,12 @@
                 "charter": "Salt",
                 "difficulty": "14.1",
                 "md5": "adc9c37ba5e72721500673c648f800ef"
+            },
+            "music": {
+                "md5": "f8e89747be4c2396135ab55e89b02ffa"
+            },
+            "ill": {
+                "md5": "8782e3cc32b795d7ebabd16946e9fba3"
             }
         },
         "暗夜苏醒REANIMATE.Warak": {
@@ -5139,6 +6441,12 @@
                 "charter": "StupiGGy -The Startline-",
                 "difficulty": "15.3",
                 "md5": "4c4517953172edc8e1681fd906216a35"
+            },
+            "music": {
+                "md5": "096822335b392a721c5042a8891dab2b"
+            },
+            "ill": {
+                "md5": "6ace31a5b885877bf610ab567cc4daca"
             }
         },
         "Grimheart.Puru": {
@@ -5162,6 +6470,12 @@
                 "charter": "WhiteCat.",
                 "difficulty": "13.8",
                 "md5": "918fc575bb0ca67f41c4d30fcd00ac07"
+            },
+            "music": {
+                "md5": "a687f57556ebe78d3d4295d9aa75977e"
+            },
+            "ill": {
+                "md5": "eb1d61d584c6ba8c2b8e393857bbd1e9"
             }
         },
         "Thrashforce.KAHvsE0ri4": {
@@ -5185,6 +6499,12 @@
                 "charter": "Uvernight & Su1fuR",
                 "difficulty": "15.3",
                 "md5": "bd2c7d69994bc0d59eaadd4422e26026"
+            },
+            "music": {
+                "md5": "d6f9c3b63b13a613aa99e432a4c4f33f"
+            },
+            "ill": {
+                "md5": "d395a6cf08a3bd1c9c71a849e15b3ede"
             }
         },
         "Originally.SNKSMizku": {
@@ -5208,6 +6528,12 @@
                 "charter": "StrayCat",
                 "difficulty": "14.5",
                 "md5": "c48536fd3ad901d0092dff5d711fd3bb"
+            },
+            "music": {
+                "md5": "fa7e3edd88746ec05049950462ee80bf"
+            },
+            "ill": {
+                "md5": "39b41fe1f031fd40b2597759e94b6ab0"
             }
         },
         "黄金之城GOLDTOWN.Memme": {
@@ -5231,6 +6557,12 @@
                 "charter": "Passport:Governor",
                 "difficulty": "14.7",
                 "md5": "4c6bfc2a3954d7043ba884cc50e3e0cd"
+            },
+            "music": {
+                "md5": "8b89a7f051a9f48bbef337fe8cfa5760"
+            },
+            "ill": {
+                "md5": "52b92e4741ab9293ad804a6d0dc109c7"
             }
         },
         "双重间谍DoubleAgent.WAVAV": {
@@ -5254,6 +6586,12 @@
                 "charter": "Spy-Simon_Axis | Spy-騎士",
                 "difficulty": "15.7",
                 "md5": "50a39c5038ac7ffaf4b6f23649dd40ad"
+            },
+            "music": {
+                "md5": "e047aa995b7206c5a163fcb3a12d424a"
+            },
+            "ill": {
+                "md5": "0283968839775dea6abe898432bc5868"
             }
         },
         "幻影鬼魅PLEASE.R300K": {
@@ -5282,6 +6620,12 @@
                 "charter": "imd visual charter \"Rikko\" since 2014",
                 "difficulty": "17.0",
                 "md5": "d7e58bf9150a951575b5c98d92cc22ce"
+            },
+            "music": {
+                "md5": "f2fa59556e363ba1113022b286b17ea0"
+            },
+            "ill": {
+                "md5": "8f701c0dcc16f354051404a546dc2229"
             }
         },
         "Schadenfreude.ZxNX": {
@@ -5305,6 +6649,12 @@
                 "charter": "''-1''",
                 "difficulty": "15.1",
                 "md5": "e0b39820dc615d44985bd518a36270c7"
+            },
+            "music": {
+                "md5": "d77a5cf28123b38857883bdb3f8af492"
+            },
+            "ill": {
+                "md5": "7def3eb2847562b0d759b37c44477bc0"
             }
         },
         "Letempsperdu.Daison": {
@@ -5328,6 +6678,12 @@
                 "charter": "Likey -For an old friend-",
                 "difficulty": "12.5",
                 "md5": "15c9e1bcd40f8f49e39aca20d002613d"
+            },
+            "music": {
+                "md5": "5735d3a555d3e2b23db94d10ae3fbf5f"
+            },
+            "ill": {
+                "md5": "a921591412c50f6bfabd9633923c0a3f"
             }
         },
         "FixationsTowardtheStars.Foodbot": {
@@ -5351,6 +6707,12 @@
                 "charter": "Salt",
                 "difficulty": "14.5",
                 "md5": "baae141281165a34a099e68f66aec412"
+            },
+            "music": {
+                "md5": "e1afa28034a05d6de4af342d39fed11f"
+            },
+            "ill": {
+                "md5": "686187b3af05774b80143317a86a168e"
             }
         },
         "valorstarcross.LundyvsWyvren": {
@@ -5374,6 +6736,12 @@
                 "charter": "vesper/straycat",
                 "difficulty": "15.8",
                 "md5": "805fd764d020346cc18473e616fed113"
+            },
+            "music": {
+                "md5": "03cb3ff7c53361bc473c3a2f78eeb7da"
+            },
+            "ill": {
+                "md5": "9044c4bd7942ace1d2a95559a1d0c148"
             }
         },
         "CometFeat符白牙.CNHKSS": {
@@ -5397,6 +6765,12 @@
                 "charter": "Likey & Barbarianerman",
                 "difficulty": "13.7",
                 "md5": "2b90de855a783531c9430256a4e92453"
+            },
+            "music": {
+                "md5": "8c04f960a929cb3adb5af138a51eb72d"
+            },
+            "ill": {
+                "md5": "6801575bfd2b024496a12b9a74fa3b46"
             }
         },
         "白と黒のバケモノ.テヅカ": {
@@ -5420,6 +6794,12 @@
                 "charter": "Simon_Axis",
                 "difficulty": "15.9",
                 "md5": "8d7f54e1fd87591681eed76ddbc25f6f"
+            },
+            "music": {
+                "md5": "c2bb7a8be6149cd32f85e8f9e4578a34"
+            },
+            "ill": {
+                "md5": "e8d72ccc42065a9065e6f22b41f18045"
             }
         },
         "Devotion.Connexio": {
@@ -5443,6 +6823,12 @@
                 "charter": "Salt",
                 "difficulty": "13.7",
                 "md5": "28007d394dfae0a7fd69a27bac6f05d2"
+            },
+            "music": {
+                "md5": "9bab8c30efb5cb039aa3f0caa2be80d0"
+            },
+            "ill": {
+                "md5": "0547522fd5a09362e709db9450725beb"
             }
         },
         "KirakiraNoelStory.RekuMochizuki": {
@@ -5466,6 +6852,12 @@
                 "charter": "N\\erry Xmas 2024",
                 "difficulty": "14.2",
                 "md5": "3889205e1824ca22cc00a22d0a29d853"
+            },
+            "music": {
+                "md5": "5be740b4764c03d03511eb614b93491c"
+            },
+            "ill": {
+                "md5": "556eab2e7074dd1ae6077515526e9ac0"
             }
         },
         "Shelter.MeatyRabbitNceS": {
@@ -5489,6 +6881,12 @@
                 "charter": "人外侵略地球计划",
                 "difficulty": "13.2",
                 "md5": "c8748efdd59cb6172f570c9de44e969d"
+            },
+            "music": {
+                "md5": "a777515fa8040ce6393358f77e18b9f7"
+            },
+            "ill": {
+                "md5": "a43f070df7fbc29cb1c6ab0ace58d04e"
             }
         },
         "蝎虎天体Lacertid.CreamvsDaily天利": {
@@ -5512,6 +6910,12 @@
                 "charter": "Ctymax vs. IUIsauce -村头烤鱼蘸凹酱-",
                 "difficulty": "15.5",
                 "md5": "eb1a4ead286f726a6c5afef70c6ed2d1"
+            },
+            "music": {
+                "md5": "28291a11068c1d893397d4aef619168a"
+            },
+            "ill": {
+                "md5": "72ee90af11eeafa2612961457b8dc001"
             }
         },
         "贝多芬祝福BeethovenBlessing.Nauts": {
@@ -5535,6 +6939,12 @@
                 "charter": "Salt feat. XMT小咩兔",
                 "difficulty": "15.0",
                 "md5": "032f96d63d11cdbb4b9264e8b344530d"
+            },
+            "music": {
+                "md5": "88e2919644ca1a8af5b159a0200416f9"
+            },
+            "ill": {
+                "md5": "7f8453f1f2e18bedcd5bd27d91521587"
             }
         },
         "インマイマインド.レシオP": {
@@ -5558,6 +6968,12 @@
                 "charter": "ネルサン (I make charts slowly)",
                 "difficulty": "12.2",
                 "md5": "dd81bf708c4c497dc24e828dbfc4c823"
+            },
+            "music": {
+                "md5": "84143a10fe08bc48f40c309cc94c4429"
+            },
+            "ill": {
+                "md5": "23b18458979c5e61c639c8dc942ca8b1"
             }
         },
         "ニライカナイNiraicA_naiMix.roopfromSTR": {
@@ -5581,6 +6997,12 @@
                 "charter": "Ctymax respect for STAR TRACK in 2008",
                 "difficulty": "13.5",
                 "md5": "b2fad66ea11292fc01bdc8562aa5a4f6"
+            },
+            "music": {
+                "md5": "cc7a632a6e58a67949c3e068b90a10a6"
+            },
+            "ill": {
+                "md5": "30360805023553bc0d7e2006129a43d2"
             }
         },
         "SwingSkipDrop.ミハイル": {
@@ -5604,6 +7026,12 @@
                 "charter": "Swing Salt ♪",
                 "difficulty": "15.5",
                 "md5": "3af9023d2d1b1293e8c704e02e488aee"
+            },
+            "music": {
+                "md5": "bcca87e992b66101d691342de64df11d"
+            },
+            "ill": {
+                "md5": "61626bc481a1623900d55f473bc5f4c9"
             }
         },
         "宇宙残骸少女CosmicDustyGirl.辻原一郎": {
@@ -5627,6 +7055,12 @@
                 "charter": "～漂泊者～凹酱",
                 "difficulty": "13.7",
                 "md5": "931731af6643d9ee13c6bd07f4e5dadc"
+            },
+            "music": {
+                "md5": "00e7cfe5199f9ba59c3123ee4802ce37"
+            },
+            "ill": {
+                "md5": "9d5a050c846780f98e8bc7d71760ec67"
             }
         },
         "Resolver.Gomadare": {
@@ -5650,6 +7084,12 @@
                 "charter": "Clutter vs. Salt",
                 "difficulty": "14.4",
                 "md5": "b7ea4699d050dca76acdedda872de414"
+            },
+            "music": {
+                "md5": "3d8158eabea26048906f5ccda93a1462"
+            },
+            "ill": {
+                "md5": "3aa97f0d26831a3ab4cfb951dc5eb14c"
             }
         },
         "LuminousEntitiesLostHeart.NormalMfeatUsagiDenki": {
@@ -5673,6 +7113,12 @@
                 "charter": "光る星",
                 "difficulty": "15.2",
                 "md5": "232566263bba8da9fac637bdb714224a"
+            },
+            "music": {
+                "md5": "13516af5131263aa8fc4c7e9e2851c19"
+            },
+            "ill": {
+                "md5": "96284684ada6796fc7f56917acab1f38"
             }
         },
         "KIZUNAResolution.TAG": {
@@ -5696,6 +7142,12 @@
                 "charter": "Sempiternal Fxxxxxx Resolution!",
                 "difficulty": "16.4",
                 "md5": "976d5fb73586757d7202ca239907f948"
+            },
+            "music": {
+                "md5": "77f9475d511c0f9d65613a2833d4753d"
+            },
+            "ill": {
+                "md5": "e8f17a94f0fe993f001c44ee0b022d2d"
             }
         },
         "AbsoluTedisoRdeR.AcuteDisarray": {
@@ -5724,6 +7176,12 @@
                 "charter": "Apocalyptic Dissonance",
                 "difficulty": "17.2",
                 "md5": "feb68f679dac28918a49020ca9eb70e8"
+            },
+            "music": {
+                "md5": "80ea0bc5841e6a6c17be27ef90668bc4"
+            },
+            "ill": {
+                "md5": "0ef24b2856ce93ecd9833fbb27422092"
             }
         },
         "AphroditesChildshortver.RUQOA": {
@@ -5747,6 +7205,12 @@
                 "charter": "StrayCat",
                 "difficulty": "13.3",
                 "md5": "544c9af92dd45a02b017822fc57fed96"
+            },
+            "music": {
+                "md5": "4b33d6bd4ce4856d23193e988f858b9d"
+            },
+            "ill": {
+                "md5": "8307c6f38cdad56657097f1acce5ac0d"
             }
         },
         "DevIAtiOnshortver.polysha": {
@@ -5770,6 +7234,12 @@
                 "charter": "Nr3_Official",
                 "difficulty": "15.7",
                 "md5": "bc9ba597cbd9f43fa5bf839618bd12dc"
+            },
+            "music": {
+                "md5": "aac38d1ea96fd50911754e6c29c35220"
+            },
+            "ill": {
+                "md5": "a55d4dd9630416730789648af6c641db"
             }
         },
         "NOx.Juggernaut": {
@@ -5793,6 +7263,12 @@
                 "charter": "StR-1",
                 "difficulty": "16.1",
                 "md5": "bcd8a4440383e51f29a9badc3a4cbd4d"
+            },
+            "music": {
+                "md5": "f0d2fb314b1b2fe31e01f838365f1dba"
+            },
+            "ill": {
+                "md5": "0bd1e144d3df2cc998021458f008d61f"
             }
         },
         "Aliceinaxxxxxxxx.Nagiha": {
@@ -5816,6 +7292,12 @@
                 "charter": "□MT in a XXXXXXXX",
                 "difficulty": "15.8",
                 "md5": "956ee1cc219b494d0ae10e122d281b5f"
+            },
+            "music": {
+                "md5": "a514b4a3ba561dd936c3b74323e01489"
+            },
+            "ill": {
+                "md5": "03ad0fe8fd7cb4c0457b699b487cc087"
             }
         },
         "Radiance.Nhato": {
@@ -5844,6 +7326,12 @@
                 "charter": "Яadiance",
                 "difficulty": "15.6",
                 "md5": "f99c079e983f546b1d89bfffec0f701c"
+            },
+            "music": {
+                "md5": "7fd86c3206a7a42037c3b34e1a124052"
+            },
+            "ill": {
+                "md5": "259d31d82ebdd93e6164aa41e752841d"
             }
         },
         "DiamondDust.MasahiroGodspeedAoki": {
@@ -5872,6 +7360,12 @@
                 "charter": "StupiGGy",
                 "difficulty": "16.7",
                 "md5": "eeb5f000c926e7e155ce9fe3a9dd64ba"
+            },
+            "music": {
+                "md5": "87b712d03856fed4bbbbff1d869cd20f"
+            },
+            "ill": {
+                "md5": "2bba9d2d8e5f8884c1460db782ba65cd"
             }
         },
         "StardustRAY.kanonevsBlackY": {
@@ -5900,6 +7394,12 @@
                 "charter": "完璧 vs. 癒株 -Autumn Memory-",
                 "difficulty": "17.2",
                 "md5": "3fdf9a6bf2c3a3fab64ef00ca25df9fc"
+            },
+            "music": {
+                "md5": "794e1229a16c4c0a12237244eaa1e5eb"
+            },
+            "ill": {
+                "md5": "7f01152c8a0b6777944581d572b53db4"
             }
         },
         "FrozenHeart.A39沙包P": {
@@ -5923,6 +7423,12 @@
                 "charter": "Likey & Gausbon",
                 "difficulty": "14.6",
                 "md5": "ebeb1b5ab8325067c446d2a9cc7adb96"
+            },
+            "music": {
+                "md5": "320643fb5678980f741810c0e7df8e7d"
+            },
+            "ill": {
+                "md5": "c6ba7eacb3e3eb07cf4c34a322f786ce"
             }
         },
         "Helios.NOABotaNya": {
@@ -5946,6 +7452,12 @@
                 "charter": "jeitie gets sent to the sun",
                 "difficulty": "14.2",
                 "md5": "35a3d9514a97978c4546d1c3c4272e53"
+            },
+            "music": {
+                "md5": "c0249240689df574afafce60f04c0590"
+            },
+            "ill": {
+                "md5": "ff062653aa83d4be2402a3c6407d3e89"
             }
         },
         "FlutterEcho.Cansol": {
@@ -5969,6 +7481,12 @@
                 "charter": "Clutter Echo",
                 "difficulty": "14.9",
                 "md5": "29d23b5047b4f290ff849ad664b629e0"
+            },
+            "music": {
+                "md5": "8cd1bc63ce784781d0640575450953e9"
+            },
+            "ill": {
+                "md5": "aff04fcaa401ffb0fd4ae84c75e5e11c"
             }
         },
         "Rebirth.ああああ": {
@@ -5992,6 +7510,12 @@
                 "charter": "Gausbon & StupiGGy",
                 "difficulty": "15.4",
                 "md5": "7c74cd1f99bb6bb584fcf0597ed34111"
+            },
+            "music": {
+                "md5": "bd5cec8d67613e343be72dfe0f06e5b2"
+            },
+            "ill": {
+                "md5": "f580860616f1c7f4da36f7377b80e6ee"
             }
         },
         "AvataarReincarnationofKalpa.ScarletteakaCrYmson": {
@@ -6020,6 +7544,12 @@
                 "charter": "XMT & Salt",
                 "difficulty": "16.6",
                 "md5": "75335313c6a15d20f69cd4241c73c491"
+            },
+            "music": {
+                "md5": "ca2fa25c0af738166a78d49b07aee206"
+            },
+            "ill": {
+                "md5": "8fa266b5dc391f5de86d35ebb631f750"
             }
         },
         "雪降り雪が降っている.AiSSw夜輪ft結月ゆかり": {
@@ -6048,6 +7578,12 @@
                 "charter": "小咩兔的多指课堂 vs. 上课睡大觉",
                 "difficulty": "14.0",
                 "md5": "8a8e2e7d0f5d25ddbbf250749d70243e"
+            },
+            "music": {
+                "md5": "311ec2f0ade4b0fd70c6dc09554e290e"
+            },
+            "ill": {
+                "md5": "6e6b9b9687a8d81ac22d12d3fc1d5b02"
             }
         },
         "RetributionCycleofRedemption.ArdolfvsDaily天利": {
@@ -6071,6 +7607,12 @@
                 "charter": "Simon_Axis vs. Likey [Respect Ner as \"SP∆DE\"]",
                 "difficulty": "16.2",
                 "md5": "441a124857c6183c4fd6ce461e5b7e2d"
+            },
+            "music": {
+                "md5": "95400012ec213abd2a0420af2fcff502"
+            },
+            "ill": {
+                "md5": "08409a33c8d9e16fdb7b9735f80b6969"
             }
         },
         "アンビバレンス.すりぃ相沢": {
@@ -6094,6 +7636,12 @@
                 "charter": "弧光 With Opposition",
                 "difficulty": "14.1",
                 "md5": "c76fe5d7a79ee5268896453658e72686"
+            },
+            "music": {
+                "md5": "8a7fd598ad89bd177d31b097832d80a0"
+            },
+            "ill": {
+                "md5": "cbd43b6d3afe623ece1575a7e347bf00"
             }
         },
         "Komplexe.雄之助featSennzai": {
@@ -6117,6 +7665,12 @@
                 "charter": "Likey",
                 "difficulty": "14.3",
                 "md5": "62cbdd07066a1e979f2d644d244cd292"
+            },
+            "music": {
+                "md5": "79b92c7118c7e3bfdc3777d9f126f610"
+            },
+            "ill": {
+                "md5": "cd16d8ebaf0dc33efc4f745b0526dc29"
             }
         },
         "slips.rintarosoma": {
@@ -6145,6 +7699,12 @@
                 "charter": "ø",
                 "difficulty": "16.8",
                 "md5": "486d8a50bcfc29aeeaf9fd00afcb388e"
+            },
+            "music": {
+                "md5": "1d70052bfcfec88b773f2f7e77814ece"
+            },
+            "ill": {
+                "md5": "147606641d9e2761c7553ccab04017a4"
             }
         },
         "QZKagoRequiem.tpazolite": {
@@ -6173,6 +7733,12 @@
                 "charter": "Salt feat. M3ow",
                 "difficulty": "17.4",
                 "md5": "8bc5fd153280ca352edc1d1ff618fb32"
+            },
+            "music": {
+                "md5": "3d1c962f2ebea3fba45426f53c6c9b0a"
+            },
+            "ill": {
+                "md5": "3c227b5ca7357d7bf9e5f4aaa96d0b29"
             }
         },
         "SolaggyfeatUzumaki.ShrimpCatsはぁち後藤涼輔": {
@@ -6196,6 +7762,12 @@
                 "charter": "Salt",
                 "difficulty": "14.6",
                 "md5": "5ff8bfefa4c24481ac7294c0f68203ce"
+            },
+            "music": {
+                "md5": "7c670d70d12cc865c51e6850b8a3425c"
+            },
+            "ill": {
+                "md5": "0887128866ef987dc903b6308b344e24"
             }
         },
         "000AinSophAur.Yumeji": {
@@ -6219,6 +7791,12 @@
                 "charter": "啊0哒0咔0哟 & Dilated",
                 "difficulty": "14.4",
                 "md5": "4c660be01e99aeea4aa3cd36ff564bfd"
+            },
+            "music": {
+                "md5": "d28600acbd354d4a584ca1dfbd2e15d7"
+            },
+            "ill": {
+                "md5": "9fdbf7c2ad38b8b3ae3a3dbe92fb15ed"
             }
         },
         "Xepion.Acotto": {
@@ -6242,6 +7820,12 @@
                 "charter": "Su1fuRikko",
                 "difficulty": "14.8",
                 "md5": "af68d550427b78ac2c2d01d7d8bd6896"
+            },
+            "music": {
+                "md5": "94873b7d8d2cbe2ad59dfe154eaf4ffb"
+            },
+            "ill": {
+                "md5": "28040cb48e812b3c502c57274dc8c707"
             }
         },
         "Archidoxen.Se_IRA": {
@@ -6265,6 +7849,12 @@
                 "charter": "Rft.",
                 "difficulty": "15.6",
                 "md5": "b9f2913209d974e00bedc305200a7dee"
+            },
+            "music": {
+                "md5": "40b7c2f868700392ebe27247b183e8a3"
+            },
+            "ill": {
+                "md5": "9d8df72ef21d74782b103156c8743e2c"
             }
         },
         "百鬼夜行.SaladSavior": {
@@ -6288,6 +7878,12 @@
                 "charter": "～Algax vs. RipHall～",
                 "difficulty": "15.8",
                 "md5": "7d403284ca2052af91effc315a3e4b7d"
+            },
+            "music": {
+                "md5": "2e0c11b7b0a388b0ce9a4a73b7310db3"
+            },
+            "ill": {
+                "md5": "11f19f420d458f71a186a973b65f2ba5"
             }
         },
         "BANGINGSTRIKE.DewPleiades": {
@@ -6316,6 +7912,12 @@
                 "charter": "魔王、大咩兔の兄 『大咩免』!!",
                 "difficulty": "16.8",
                 "md5": "e3930d87a4b93f3fa1b7c5bd6ce09178"
+            },
+            "music": {
+                "md5": "7ecc90c8e93c3c6bd79c0627fd4fb657"
+            },
+            "ill": {
+                "md5": "02dd84e752cc6ff20193ed8d580b7dc7"
             }
         },
         "TheWholeRest.KIVΛ": {
@@ -6339,6 +7941,12 @@
                 "charter": "Uvernight from CYTUS II",
                 "difficulty": "13.6",
                 "md5": "dc4847e2d2dd805a61b760f3cc2eb2a3"
+            },
+            "music": {
+                "md5": "614244b9965852e04455878d889818c0"
+            },
+            "ill": {
+                "md5": "78f31f27734a3f9da9326f5f177fd7be"
             }
         },
         "Cristalisia.onoken": {
@@ -6362,6 +7970,12 @@
                 "charter": "Salt",
                 "difficulty": "14.4",
                 "md5": "14ce7e877980b6193277efef78d4d737"
+            },
+            "music": {
+                "md5": "04890fba3e592625b99aa23992d16d17"
+            },
+            "ill": {
+                "md5": "7b3e4f6ed69e2c1600c79d7de4d8769f"
             }
         },
         "Hydra.JamesLandinoXAkiraComplex": {
@@ -6390,6 +8004,12 @@
                 "charter": "[该用户已被禁言]",
                 "difficulty": "17.1",
                 "md5": "d698bd9134c142ae168e4835de64223d"
+            },
+            "music": {
+                "md5": "8b1b6de5eef231cb58aa89ade10866e7"
+            },
+            "ill": {
+                "md5": "f31c72ce41ea3a8946842e6f73707a31"
             }
         },
         "最高傑作.PYKAMIA": {
@@ -6413,6 +8033,12 @@
                 "charter": "_鉄咩兔",
                 "difficulty": "13.9",
                 "md5": "83e3a52657350827fd9784f5d97abbdd"
+            },
+            "music": {
+                "md5": "4e59818871a92680032a1e37dcead5a8"
+            },
+            "ill": {
+                "md5": "7dbe00d3a05fddcfc795b2e739656820"
             }
         },
         "Locomotive.K": {
@@ -6436,6 +8062,12 @@
                 "charter": "Monorail",
                 "difficulty": "13.5",
                 "md5": "f4b732d8db4af0554225917bcb37439d"
+            },
+            "music": {
+                "md5": "fd92963b86058201d7bfa8e00da6b3a9"
+            },
+            "ill": {
+                "md5": "3c5fdbd90d0e821d5970afc9e4b9c62f"
             }
         },
         "Alb.Avans": {
@@ -6459,6 +8091,12 @@
                 "charter": "Ary",
                 "difficulty": "14.7",
                 "md5": "23342c8aa8873c04c6152fe5db139e0f"
+            },
+            "music": {
+                "md5": "9d4d03ac036dc048f9de1ada74a09bc2"
+            },
+            "ill": {
+                "md5": "0790d1dc4396db0262f8a13c862c30a4"
             }
         },
         "Incyde.YbeLL": {
@@ -6482,6 +8120,12 @@
                 "charter": "Magazet wanders within StR-1",
                 "difficulty": "16.2",
                 "md5": "181d9686ebd6055c6b5ad7eaeefbaeb3"
+            },
+            "music": {
+                "md5": "ce799572028178a198d8cee37f4bdbeb"
+            },
+            "ill": {
+                "md5": "ebe9d7e9f3ba2804657e8c263b7a578f"
             }
         },
         "彩.MisoilePunch": {
@@ -6505,6 +8149,12 @@
                 "charter": "OPCII_0584_X",
                 "difficulty": "16.4",
                 "md5": "7952812a315927afc23716ba28817dd3"
+            },
+            "music": {
+                "md5": "64b47616c15372d957264348b0a9ee29"
+            },
+            "ill": {
+                "md5": "3bc1806f9e79cfb773916b5f806ce8a1"
             }
         },
         "彼方へ名もなき海辺より.打打だいず&月乃": {
@@ -6528,6 +8178,12 @@
                 "charter": "打打だいずファンクラブ会長 -- Likey！！！",
                 "difficulty": "14.5",
                 "md5": "2cedf0e11a7494d2dc1e4ecf774cf2fb"
+            },
+            "music": {
+                "md5": "721702fbd3316198bb968446bf36cef0"
+            },
+            "ill": {
+                "md5": "b5b4a0fe2418d9e0985f8657b6acb2bd"
             }
         },
         "ABYSSMOTION192333.ariiolTSAR奏Sou": {
@@ -6551,6 +8207,12 @@
                 "charter": "MOTION 464.237",
                 "difficulty": "14.7",
                 "md5": "5bd156170af0c142b4c5df6ae24dcc01"
+            },
+            "music": {
+                "md5": "520d51ef1ede51c148147bea04aaa5dc"
+            },
+            "ill": {
+                "md5": "1d5eb66327f94e317982e8df7edfe845"
             }
         },
         "Xenophobia.XinG": {
@@ -6574,6 +8236,12 @@
                 "charter": "Skuwo",
                 "difficulty": "14.9",
                 "md5": "f0738a13fe549cf954fc4840046f2c9b"
+            },
+            "music": {
+                "md5": "f1b861388124dcb8047812416ebb706b"
+            },
+            "ill": {
+                "md5": "fde0f890ab23bfbd558f0e7be4fa7eb3"
             }
         },
         "Verruckt.Raimukun": {
@@ -6597,6 +8265,12 @@
                 "charter": "Salt",
                 "difficulty": "16.5",
                 "md5": "b29a96266837287fad19248b276a2355"
+            },
+            "music": {
+                "md5": "1466f1c7f445c928bafc23d8b85c2117"
+            },
+            "ill": {
+                "md5": "6889a509cf784f0c9a9200b13362ff83"
             }
         },
         "AfterZABANIYAMUGEdit.Daily天利": {
@@ -6620,6 +8294,12 @@
                 "charter": "After CHARTERS",
                 "difficulty": "15.6",
                 "md5": "f99dc4975d5e1b1edd4e0653e9f3c24b"
+            },
+            "music": {
+                "md5": "06f798fab3078caf9a84ce5bc4617a16"
+            },
+            "ill": {
+                "md5": "9d7aed37e332a6fa642414bcd8419c21"
             }
         },
         "下一秒.BobHouSherlock卓智媛feat兰音Reine": {
@@ -6643,6 +8323,12 @@
                 "charter": "Salt",
                 "difficulty": "13.2",
                 "md5": "6df7f031fd60aa98bd93edd0016f84e3"
+            },
+            "music": {
+                "md5": "136b2ace6dc7bbec16188ca5a1009592"
+            },
+            "ill": {
+                "md5": "8c8c885c3b7f7cdb06f1d536cf3889b7"
             }
         },
         "玩具狂奏曲終焉.きくお": {
@@ -6671,6 +8357,12 @@
                 "charter": "XMT, the Abandoned Puppet",
                 "difficulty": "17.0",
                 "md5": "de2726319b6184f07a01f673a777a385"
+            },
+            "music": {
+                "md5": "d961e4406faa2b9e67585b01770f4be2"
+            },
+            "ill": {
+                "md5": "3450c9d6c1fec8e466e2537adae24174"
             }
         },
         "Poseidon.1112vsStar": {
@@ -6699,6 +8391,12 @@
                 "charter": "上班摸大鱼 a.k.a. 海洋咩兔",
                 "difficulty": "16.2",
                 "md5": "1e78db6236cd6d8403030daa7be098e9"
+            },
+            "music": {
+                "md5": "fae2e069edac412abc077ad2d52d9c75"
+            },
+            "ill": {
+                "md5": "e0ee796b5d2d5801243f2817ebd09bff"
             }
         },
         "WATER.A39沙包P": {
@@ -6722,6 +8420,12 @@
                 "charter": "乱流に巻き込まれ",
                 "difficulty": "13.6",
                 "md5": "abe1c35d1f28ca3e29622c4668e94aac"
+            },
+            "music": {
+                "md5": "ecb5b3e86d7fbb25715e38e2158cf3ca"
+            },
+            "ill": {
+                "md5": "bc22afc643a71c286fd17282fcf1f7fa"
             }
         },
         "MiracleForestVIPMix.Rinthlive": {
@@ -6745,6 +8449,12 @@
                 "charter": "奇跡の希 feat. 奇跡の従",
                 "difficulty": "13.1",
                 "md5": "0fbb3bee621b3e62a94261173260d11f"
+            },
+            "music": {
+                "md5": "c3b0d8c8dd31e3082afbe2df9d3a474a"
+            },
+            "ill": {
+                "md5": "72e8e248ca7a2076a239cf36f88a78ab"
             }
         },
         "MOBILYS.Dachs": {
@@ -6768,6 +8478,12 @@
                 "charter": "StupiGGy vs. 百九十八 ft. 野从",
                 "difficulty": "14.3",
                 "md5": "66612be3d39dd8b3693d5b38eda48866"
+            },
+            "music": {
+                "md5": "d3b5dd8a12af6ff077d09257611b9fec"
+            },
+            "ill": {
+                "md5": "9add31ee816673b05206c4b859e6e1fb"
             }
         },
         "Lyrith迷宮リリス.ユメミド": {
@@ -6796,6 +8512,12 @@
                 "charter": "CN_115 as \"prediCameNt\"",
                 "difficulty": "16.5",
                 "md5": "bb5f63d8af3cc963fb8671ebb46ebba2"
+            },
+            "music": {
+                "md5": "a8b4198eb19dd6bd4ab7fbf4375c1a77"
+            },
+            "ill": {
+                "md5": "3080e83614dbd0c6a283e58a24ab4bc3"
             }
         },
         "Demiurge.Rabpit": {
@@ -6819,6 +8541,12 @@
                 "charter": "\"Demiurge\" ~ Dawn",
                 "difficulty": "11.8",
                 "md5": "07d20b0fc8ee54b7a60f5d883faa4c43"
+            },
+            "music": {
+                "md5": "57de30ef902d52e43ae86671d67e1ace"
+            },
+            "ill": {
+                "md5": "9c9460576eb58ab05ccb9851a980d27a"
             }
         },
         "Demonkin.ForgedReigns": {
@@ -6842,6 +8570,12 @@
                 "charter": "Sillyp & Alloces",
                 "difficulty": "13.8",
                 "md5": "0ff16774ecf0d6a2fc89bea8d6fada14"
+            },
+            "music": {
+                "md5": "13ac8a4862bc2cf0e57ebb3dbed96a53"
+            },
+            "ill": {
+                "md5": "f191c20d30a73a905e1c7125c2779255"
             }
         },
         "Re_NascencePsystyleVer.Rinth_live": {
@@ -6865,6 +8599,12 @@
                 "charter": "NerSAN & 百九十八",
                 "difficulty": "14.4",
                 "md5": "333226d2a667cc6f79fccd92ae830d35"
+            },
+            "music": {
+                "md5": "684918f6f49210d545fe547be4a91850"
+            },
+            "ill": {
+                "md5": "f27021c7a941cf3948ab60e0808f3af9"
             }
         },
         "Ark.kanoryo": {
@@ -6893,6 +8633,12 @@
                 "charter": "StupiGGy",
                 "difficulty": "16.5",
                 "md5": "15361becb986cb4d89988c99e70564c2"
+            },
+            "music": {
+                "md5": "31b353b972ca0ec37bff8cf467d43f27"
+            },
+            "ill": {
+                "md5": "f13a26d5c3c206b619646d3702804ba0"
             }
         },
         "AfterDawn.S9ryne": {
@@ -6916,6 +8662,12 @@
                 "charter": "BarbariaNerSAN feat. Snorkel",
                 "difficulty": "15.3",
                 "md5": "13f731677d8fb4e524486a8bb517710b"
+            },
+            "music": {
+                "md5": "7e248ee3a227fa822353d3aef6bd60f4"
+            },
+            "ill": {
+                "md5": "3323f281e0585d6fe0fb1ce156960770"
             }
         },
         "INFiNiTEENERZYOverdoze.RekuMochizuki": {
@@ -6944,6 +8696,12 @@
                 "charter": "while(TangScend=TangScend);",
                 "difficulty": "16.8",
                 "md5": "572a57d2de7a76b38e52f3fdb678634a"
+            },
+            "music": {
+                "md5": "3a33536bbfee067518d5cd98a1a15557"
+            },
+            "ill": {
+                "md5": "1bdb8392ce8de65c3dc482042fc4f51e"
             }
         },
         "Khalid.Dolphin": {
@@ -6967,6 +8725,12 @@
                 "charter": "Ner＜Jazz for your soul .)",
                 "difficulty": "13.1",
                 "md5": "4a1fa0dd03df59dde44465193bea1e73"
+            },
+            "music": {
+                "md5": "a9dbc17502ceb1d199cfd761141269ba"
+            },
+            "ill": {
+                "md5": "6f129e6cf462579e23f9f113590effd2"
             }
         },
         "QuantumHyperspace.D_AAN": {
@@ -6990,6 +8754,12 @@
                 "charter": "IMD_0b0110",
                 "difficulty": "15.0",
                 "md5": "65ab4ef33b212c183e6935310efca8bb"
+            },
+            "music": {
+                "md5": "a931c58ec0323d75d411753e73197b95"
+            },
+            "ill": {
+                "md5": "767b71a033f295877aaad16f7297ac7f"
             }
         },
         "FreakyUndulationsNobleKnightsofTune.JehezukielKURORAK": {
@@ -7013,6 +8783,12 @@
                 "charter": "<= Noblesse Jeitie =>",
                 "difficulty": "15.3",
                 "md5": "17ba720b967606e73e5b04d6372b64f4"
+            },
+            "music": {
+                "md5": "86f12b9ce349c2362e87808aa0dcd9ef"
+            },
+            "ill": {
+                "md5": "c9de95f0fb12671f80a096427316fb79"
             }
         },
         "PANICPARADISE.DJSHIONY": {
@@ -7041,6 +8817,12 @@
                 "charter": "StR-1",
                 "difficulty": "16.5",
                 "md5": "8638649cd9a24d51365a1860d2eea467"
+            },
+            "music": {
+                "md5": "d30b6eaf8d7b91b6ab2163edada34947"
+            },
+            "ill": {
+                "md5": "0d3aa7771689d20406e41540195ff1e7"
             }
         },
         "ReEndofaDream.umavsモリモリあつし": {
@@ -7069,6 +8851,12 @@
                 "charter": "XMT, Encore after the end",
                 "difficulty": "16.9",
                 "md5": "712399d4bf3cf9df0dbda5a5b7e4978b"
+            },
+            "music": {
+                "md5": "09a27e1dfc0cbbd98836f20edd167fea"
+            },
+            "ill": {
+                "md5": "d4774cf4760348874609208d691c48c7"
             }
         },
         "心の記憶.A39沙包P": {
@@ -7092,6 +8880,12 @@
                 "charter": "N-23",
                 "difficulty": "13.3",
                 "md5": "a86991ca054b54848a6185bc73bb8a1d"
+            },
+            "music": {
+                "md5": "6be8c83d0da28d085f506da5870ada95"
+            },
+            "ill": {
+                "md5": "46d174e0f37b2d5f1b6b94b02563aae7"
             }
         },
         "Spotlight.Ardolf": {
@@ -7115,6 +8909,12 @@
                 "charter": "Likey >IT'S SHOWTIME!",
                 "difficulty": "14.4",
                 "md5": "88ca621c0f0b92f7b97404b7e8732fce"
+            },
+            "music": {
+                "md5": "87052c9b61f745522e07ee9f917c3b50"
+            },
+            "ill": {
+                "md5": "69d642a6c1bcb3ac50750d34f35dff66"
             }
         },
         "NightTheater.わかどり": {
@@ -7138,6 +8938,12 @@
                 "charter": "LuminousGausbon",
                 "difficulty": "14.3",
                 "md5": "2f909bce70aa0aaa3f8f32288fc07b1e"
+            },
+            "music": {
+                "md5": "a64a33b2e4b3a1ec9e6dba7b5b181988"
+            },
+            "ill": {
+                "md5": "7b241e2e9f1815e6e38e07b9093db097"
             }
         },
         "Ramification.rareguyReina": {
@@ -7161,6 +8967,12 @@
                 "charter": "Simon_Axis•騎士•StR-1",
                 "difficulty": "14.8",
                 "md5": "44424b473d4451dd1a198ce9b3e114bd"
+            },
+            "music": {
+                "md5": "30a6a33e729ec0b3119a72240012558b"
+            },
+            "ill": {
+                "md5": "4ec636efc2af37dfca6fd963ff0af588"
             }
         },
         "DerRichter.Ωμεγα": {
@@ -7189,6 +9001,12 @@
                 "charter": "Concat(Ramification,Richter)",
                 "difficulty": "16.9",
                 "md5": "114a1676d00fbaa1b7e018df68dff268"
+            },
+            "music": {
+                "md5": "319a2e6d3eecad48d8013a2a5d53b588"
+            },
+            "ill": {
+                "md5": "63e9d665b02376413794c4cd22d965f9"
             }
         },
         "ATHAZA.LeaF": {
@@ -7217,8 +9035,105 @@
                 "charter": "FORGET :: CLUTTER",
                 "difficulty": "16.6",
                 "md5": "e0fe5a2ffaa75fac4568f9c13e2f3877"
+            },
+            "music": {
+                "md5": "450eac9a2eb88b6776c88a98cb216851"
+            },
+            "ill": {
+                "md5": "937ed33dd30361e3091fb1412f462658"
             }
         }
     },
-    "_April": {}
+    "OnlyAssets": {
+        "Random.SobremSilentroom.4": {
+            "IN": {
+                "md5": "2844eed1acf51e127152b6bc7c106bd2"
+            },
+            "EZ": {
+                "md5": "06e809e7652fa042b938aacabd7393c9"
+            },
+            "HD": {
+                "md5": "719d0d98515c89969ae87e56af835ba9"
+            },
+            "music": {
+                "md5": "19f80329fab12f1c3198670e94d5564a"
+            }
+        },
+        "Random.SobremSilentroom.2": {
+            "IN": {
+                "md5": "900090f5bdfd212d979ee8c041c7b078"
+            },
+            "EZ": {
+                "md5": "fffe2ec1f2e78dea43063b67aacd3f6d"
+            },
+            "HD": {
+                "md5": "b05b08faa67655f8ca8f684786fb40f7"
+            },
+            "music": {
+                "md5": "3fcf9b3cd99ad579e52bb1f44343bfcf"
+            }
+        },
+        "Introduction": {
+            "EZ": {
+                "md5": "75a59c2d205d8809de9081729dd5a783"
+            }
+        },
+        "Random.SobremSilentroom.6": {
+            "IN": {
+                "md5": "425e741380d1249f4386ea15069a12f7"
+            },
+            "EZ": {
+                "md5": "35d21d4395a1c4f0df20fe9c0c953f53"
+            },
+            "HD": {
+                "md5": "575e6c0c723a4ead202e0eb09e4c3b8f"
+            },
+            "music": {
+                "md5": "a8b687b3b31d51bc7b7004410f829199"
+            }
+        },
+        "Random.SobremSilentroom.1": {
+            "IN": {
+                "md5": "b0604a91ef162596af00a380007beb03"
+            },
+            "EZ": {
+                "md5": "268b03a5b4894e276e17229d8e1b9655"
+            },
+            "HD": {
+                "md5": "fd1d9210de7cc5ee317b69a30cbb35f6"
+            },
+            "music": {
+                "md5": "86f1ae27ef1b39251073e9aefbe870ef"
+            }
+        },
+        "Random.SobremSilentroom.5": {
+            "IN": {
+                "md5": "95a51d49fd2f52d680220ee4b7395e39"
+            },
+            "EZ": {
+                "md5": "eadfbcb51bb48afc27d2e2da163e744d"
+            },
+            "HD": {
+                "md5": "b3e49e5a001f367e123c55cffabefe5c"
+            },
+            "music": {
+                "md5": "0bd43f429b54ed1fb48968c57ab947f3"
+            }
+        },
+        "Random.SobremSilentroom.3": {
+            "IN": {
+                "md5": "f8fd0235c6da0143b2053f9cff28e483"
+            },
+            "EZ": {
+                "md5": "4142a7e33aff60c2983527a9e716ec2f"
+            },
+            "HD": {
+                "md5": "9d242a7e6112f92e3160427e7dd6b89f"
+            },
+            "music": {
+                "md5": "410b1431498a9b1e6df09bd5072ebead"
+            }
+        }
+    },
+    "OnlyInfo": {}
 }
