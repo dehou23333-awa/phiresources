@@ -46,6 +46,7 @@ jobs:
                       "doDownloadApk": true,
                       "downloadwith": "aria2",
                       "doUnpack": true,
+                      "doFastUnpack": false,
                       "doBuildChartInfo": true,
                       "doRender": false,
                       "doUpload": false,
