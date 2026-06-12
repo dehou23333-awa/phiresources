@@ -1,6 +1,6 @@
 {
-    "Version": 149,
-    "PhiVersion": "3.19.2",
+    "Version": 151,
+    "PhiVersion": "3.19.3",
     "Songs": {
         "Glaciaxion.SunsetRay": {
             "Name": "Glaciaxion",
@@ -7896,12 +7896,12 @@
             "EZ": {
                 "charter": "adky",
                 "difficulty": "5.0",
-                "md5": "3fadb34f1147eb74f5b2f8a7ddc05888"
+                "md5": "304eb965f42cca4ba3a76018f32b11b6"
             },
             "HD": {
                 "charter": "adky",
                 "difficulty": "10.2",
-                "md5": "96dde0afc934fc6b63c1023068f09c0a"
+                "md5": "eb06a5b7b011efa8ec8db20fd6654c4f"
             },
             "IN": {
                 "charter": "Salt & Uvernight",
@@ -8351,7 +8351,7 @@
             "IN": {
                 "charter": "Self -the pAtchwork-",
                 "difficulty": "15.8",
-                "md5": "32ffeb5897851ab4d3ab93f4df1e0c32"
+                "md5": "6b5edb586906691afd166dae656858fb"
             },
             "AT": {
                 "charter": "XMT, the Abandoned Puppet",
@@ -8421,6 +8421,64 @@
             },
             "ill": {
                 "md5": "00fd9a33b8070ae4c3bdabdad5ff7c93"
+            }
+        },
+        "Cleyera.Riya": {
+            "Name": "Cleyera",
+            "Composer": "Riya",
+            "illustrator": "神居冰绘",
+            "chapter": "Single",
+            "previewTime": 72.5,
+            "previewEndTime": 92.5,
+            "EZ": {
+                "charter": "--The Last of Barbarianerman--",
+                "difficulty": "5.0",
+                "md5": "8d347d01ea34126b5cdd4b7ed1c1b5c9"
+            },
+            "HD": {
+                "charter": "Su2023fuR",
+                "difficulty": "11.0",
+                "md5": "65e619f07f1a252cfdd0fca94d1ac0bc"
+            },
+            "IN": {
+                "charter": "Salt",
+                "difficulty": "15.6",
+                "md5": "4768dcddb36736d53134a7fc27d97ff8"
+            },
+            "music": {
+                "md5": "dc3ccd12665dc24f58f402f872ed05e1"
+            },
+            "ill": {
+                "md5": "8e4dd3f592251b4dfcc86e820c290096"
+            }
+        },
+        "70MinutesFighters.かたぎり": {
+            "Name": "70 Minutes Fighters",
+            "Composer": "かたぎり",
+            "illustrator": "青鸟",
+            "chapter": "Single",
+            "previewTime": 105.94,
+            "previewEndTime": 116.76,
+            "EZ": {
+                "charter": "ADKY",
+                "difficulty": "7.5",
+                "md5": "3b4e584ff9e2e083161a9e7045b12257"
+            },
+            "HD": {
+                "charter": "ADKY",
+                "difficulty": "12.5",
+                "md5": "2f4a0fc32b200b519da47de9f8bd8a3a"
+            },
+            "IN": {
+                "charter": "XMT小咩兔 >w<",
+                "difficulty": "16.5",
+                "md5": "891fe2fc5aa24ba6dc067de21a4e1d55"
+            },
+            "music": {
+                "md5": "9adcef47b46f2ba6571ff919d0e3f5c7"
+            },
+            "ill": {
+                "md5": "b5415acdf284d09cb7891be81d2e1713"
             }
         },
         "Poseidon.1112vsStar": {
@@ -9103,18 +9161,46 @@
         }
     },
     "OnlyAssets": {
-        "Random.SobremSilentroom.6": {
-            "EZ": {
-                "md5": "35d21d4395a1c4f0df20fe9c0c953f53"
+        "Random.SobremSilentroom.5": {
+            "HD": {
+                "md5": "b3e49e5a001f367e123c55cffabefe5c"
             },
             "IN": {
-                "md5": "425e741380d1249f4386ea15069a12f7"
+                "md5": "95a51d49fd2f52d680220ee4b7395e39"
             },
-            "HD": {
-                "md5": "575e6c0c723a4ead202e0eb09e4c3b8f"
+            "EZ": {
+                "md5": "eadfbcb51bb48afc27d2e2da163e744d"
             },
             "music": {
-                "md5": "a8b687b3b31d51bc7b7004410f829199"
+                "md5": "0bd43f429b54ed1fb48968c57ab947f3"
+            }
+        },
+        "Random.SobremSilentroom.1": {
+            "HD": {
+                "md5": "fd1d9210de7cc5ee317b69a30cbb35f6"
+            },
+            "IN": {
+                "md5": "b0604a91ef162596af00a380007beb03"
+            },
+            "EZ": {
+                "md5": "268b03a5b4894e276e17229d8e1b9655"
+            },
+            "music": {
+                "md5": "86f1ae27ef1b39251073e9aefbe870ef"
+            }
+        },
+        "Random.SobremSilentroom.3": {
+            "HD": {
+                "md5": "9d242a7e6112f92e3160427e7dd6b89f"
+            },
+            "IN": {
+                "md5": "f8fd0235c6da0143b2053f9cff28e483"
+            },
+            "EZ": {
+                "md5": "4142a7e33aff60c2983527a9e716ec2f"
+            },
+            "music": {
+                "md5": "410b1431498a9b1e6df09bd5072ebead"
             }
         },
         "Introduction": {
@@ -9122,74 +9208,46 @@
                 "md5": "75a59c2d205d8809de9081729dd5a783"
             }
         },
-        "Random.SobremSilentroom.2": {
-            "EZ": {
-                "md5": "fffe2ec1f2e78dea43063b67aacd3f6d"
-            },
-            "IN": {
-                "md5": "900090f5bdfd212d979ee8c041c7b078"
-            },
-            "HD": {
-                "md5": "b05b08faa67655f8ca8f684786fb40f7"
-            },
-            "music": {
-                "md5": "3fcf9b3cd99ad579e52bb1f44343bfcf"
-            }
-        },
-        "Random.SobremSilentroom.5": {
-            "EZ": {
-                "md5": "eadfbcb51bb48afc27d2e2da163e744d"
-            },
-            "IN": {
-                "md5": "95a51d49fd2f52d680220ee4b7395e39"
-            },
-            "HD": {
-                "md5": "b3e49e5a001f367e123c55cffabefe5c"
-            },
-            "music": {
-                "md5": "0bd43f429b54ed1fb48968c57ab947f3"
-            }
-        },
-        "Random.SobremSilentroom.3": {
-            "EZ": {
-                "md5": "4142a7e33aff60c2983527a9e716ec2f"
-            },
-            "IN": {
-                "md5": "f8fd0235c6da0143b2053f9cff28e483"
-            },
-            "HD": {
-                "md5": "9d242a7e6112f92e3160427e7dd6b89f"
-            },
-            "music": {
-                "md5": "410b1431498a9b1e6df09bd5072ebead"
-            }
-        },
         "Random.SobremSilentroom.4": {
-            "EZ": {
-                "md5": "06e809e7652fa042b938aacabd7393c9"
+            "HD": {
+                "md5": "719d0d98515c89969ae87e56af835ba9"
             },
             "IN": {
                 "md5": "2844eed1acf51e127152b6bc7c106bd2"
             },
-            "HD": {
-                "md5": "719d0d98515c89969ae87e56af835ba9"
+            "EZ": {
+                "md5": "06e809e7652fa042b938aacabd7393c9"
             },
             "music": {
                 "md5": "19f80329fab12f1c3198670e94d5564a"
             }
         },
-        "Random.SobremSilentroom.1": {
-            "EZ": {
-                "md5": "268b03a5b4894e276e17229d8e1b9655"
+        "Random.SobremSilentroom.6": {
+            "HD": {
+                "md5": "575e6c0c723a4ead202e0eb09e4c3b8f"
             },
             "IN": {
-                "md5": "b0604a91ef162596af00a380007beb03"
+                "md5": "425e741380d1249f4386ea15069a12f7"
             },
-            "HD": {
-                "md5": "fd1d9210de7cc5ee317b69a30cbb35f6"
+            "EZ": {
+                "md5": "35d21d4395a1c4f0df20fe9c0c953f53"
             },
             "music": {
-                "md5": "86f1ae27ef1b39251073e9aefbe870ef"
+                "md5": "a8b687b3b31d51bc7b7004410f829199"
+            }
+        },
+        "Random.SobremSilentroom.2": {
+            "HD": {
+                "md5": "b05b08faa67655f8ca8f684786fb40f7"
+            },
+            "IN": {
+                "md5": "900090f5bdfd212d979ee8c041c7b078"
+            },
+            "EZ": {
+                "md5": "fffe2ec1f2e78dea43063b67aacd3f6d"
+            },
+            "music": {
+                "md5": "3fcf9b3cd99ad579e52bb1f44343bfcf"
             }
         }
     },
